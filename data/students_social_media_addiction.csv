@@ -1,0 +1,706 @@
+,ID_estudante,Idade,Genero,Nivel_Academico,Pais,Horas_Media_de_Uso_Diario,Plataforma_mais_usada,Desempenho_Academico_Afetado,Horas_de_sono_por_noite,Pontuacao de Saude Mental,Status_Relacionamento,Conflitos_nas_Midias_Sociais,Pontuacao_viciado
+0,1,19,Feminino,Graduação,Bangladesh,5.2,Instagram,Yes,6.5,6,Em relacionamento,3,8
+1,2,22,Masculino,Diplomado,India,2.1,Twitter,No,7.5,8,Solteiro,0,3
+2,3,20,Feminino,Graduação,USA,6.0,TikTok,Yes,5.0,5,Complicado,4,9
+3,4,18,Masculino,Ensino médio,UK,3.0,YouTube,No,7.0,7,Solteiro,1,4
+4,5,21,Masculino,Diplomado,Canada,4.5,Facebook,Yes,6.0,6,Em relacionamento,2,7
+5,6,19,Feminino,Graduação,Australia,7.2,Instagram,Yes,4.5,4,Complicado,5,9
+6,7,23,Masculino,Diplomado,Germany,1.5,LinkedIn,No,8.0,9,Solteiro,0,2
+7,8,20,Feminino,Graduação,Brazil,5.8,Snapchat,Yes,6.0,6,Em relacionamento,2,8
+8,9,18,Masculino,Ensino médio,Japan,4.0,TikTok,No,6.5,7,Solteiro,1,5
+9,10,21,Feminino,Diplomado,South Korea,3.3,Instagram,No,7.0,7,Em relacionamento,1,4
+10,11,19,Masculino,Graduação,France,4.8,Snapchat,Yes,6.2,5,Complicado,3,7
+11,12,20,Feminino,Graduação,Spain,5.5,TikTok,Yes,5.8,6,Em relacionamento,2,8
+12,13,22,Masculino,Diplomado,Italy,2.8,LinkedIn,No,7.2,8,Solteiro,1,4
+13,14,18,Feminino,Ensino médio,Mexico,6.5,Instagram,Yes,5.5,5,Solteiro,4,9
+14,15,21,Masculino,Graduação,Russia,3.7,YouTube,No,6.8,7,Em relacionamento,2,5
+15,16,20,Feminino,Graduação,China,4.2,TikTok,Yes,6.0,6,Complicado,3,7
+16,17,24,Masculino,Diplomado,Sweden,2.0,LinkedIn,No,7.8,8,Solteiro,0,3
+17,18,19,Feminino,Ensino médio,Norway,5.0,Instagram,Yes,5.7,5,Em relacionamento,3,8
+18,19,21,Masculino,Graduação,Denmark,3.5,Facebook,No,6.7,7,Solteiro,1,5
+19,20,20,Feminino,Graduação,Netherlands,4.7,Snapchat,Yes,5.9,6,Complicado,3,7
+20,21,18,Masculino,Ensino médio,Belgium,5.3,TikTok,Yes,5.5,5,Solteiro,4,8
+21,22,23,Feminino,Diplomado,Switzerland,2.5,LinkedIn,No,7.3,8,Em relacionamento,1,4
+22,23,19,Masculino,Graduação,Austria,4.9,Instagram,Yes,5.8,6,Complicado,3,7
+23,24,20,Feminino,Graduação,Portugal,5.7,TikTok,Yes,5.4,5,Solteiro,4,8
+24,25,22,Masculino,Diplomado,Greece,3.2,Facebook,No,6.9,7,Em relacionamento,2,5
+25,26,19,Feminino,Ensino médio,Ireland,6.1,Instagram,Yes,5.2,5,Complicado,4,9
+26,27,21,Masculino,Graduação,New Zealand,3.8,YouTube,No,6.6,7,Solteiro,1,5
+27,28,20,Feminino,Graduação,Singapore,4.4,TikTok,Yes,5.9,6,Em relacionamento,3,7
+28,29,24,Masculino,Diplomado,Malaysia,2.2,LinkedIn,No,7.4,8,Solteiro,0,3
+29,30,19,Feminino,Ensino médio,Thailand,5.9,Instagram,Yes,5.3,5,Complicado,4,8
+30,31,21,Masculino,Graduação,Vietnam,3.6,Facebook,No,6.7,7,Solteiro,1,5
+31,32,20,Feminino,Graduação,Philippines,4.8,Snapchat,Yes,5.7,6,Em relacionamento,3,7
+32,33,18,Masculino,Ensino médio,Indonesia,5.4,TikTok,Yes,5.4,5,Complicado,4,8
+33,34,23,Feminino,Diplomado,Taiwan,2.6,LinkedIn,No,7.2,8,Solteiro,1,4
+34,35,19,Masculino,Graduação,Hong Kong,4.7,Instagram,Yes,5.8,6,Em relacionamento,3,7
+35,36,20,Feminino,Graduação,Turkey,5.6,TikTok,Yes,5.5,5,Complicado,4,8
+36,37,22,Masculino,Diplomado,Israel,3.1,Facebook,No,6.8,7,Solteiro,1,5
+37,38,19,Feminino,Ensino médio,UAE,6.2,Instagram,Yes,5.1,5,Em relacionamento,4,9
+38,39,21,Masculino,Graduação,Egypt,3.9,YouTube,No,6.5,7,Complicado,2,6
+39,40,20,Feminino,Graduação,Morocco,4.5,TikTok,Yes,5.8,6,Solteiro,3,7
+40,41,24,Masculino,Diplomado,South Africa,2.3,LinkedIn,No,7.3,8,Em relacionamento,1,4
+41,42,19,Feminino,Ensino médio,Nigeria,5.8,Instagram,Yes,5.4,5,Complicado,4,8
+42,43,21,Masculino,Graduação,Kenya,3.7,Facebook,No,6.6,7,Solteiro,2,5
+43,44,20,Feminino,Graduação,Ghana,4.6,Snapchat,Yes,5.7,6,Em relacionamento,3,7
+44,45,18,Masculino,Ensino médio,Argentina,5.5,TikTok,Yes,5.3,5,Solteiro,4,8
+45,46,23,Feminino,Diplomado,Chile,2.7,LinkedIn,No,7.1,8,Complicado,1,4
+46,47,19,Masculino,Graduação,Colombia,4.8,Instagram,Yes,5.9,6,Em relacionamento,3,7
+47,48,20,Feminino,Graduação,Peru,5.5,TikTok,Yes,5.6,5,Solteiro,4,8
+48,49,22,Masculino,Diplomado,Venezuela,3.3,Facebook,No,6.7,7,Em relacionamento,2,5
+49,50,19,Feminino,Ensino médio,Ecuador,6.3,Instagram,Yes,5.2,5,Complicado,4,9
+50,51,21,Masculino,Graduação,Uruguay,3.8,YouTube,No,6.4,7,Solteiro,2,6
+51,52,20,Feminino,Graduação,Paraguay,4.7,TikTok,Yes,5.8,6,Em relacionamento,3,7
+52,53,24,Masculino,Diplomado,Bolivia,2.4,LinkedIn,No,7.2,8,Complicado,1,4
+53,54,19,Feminino,Ensino médio,Costa Rica,5.7,Instagram,Yes,5.5,5,Solteiro,4,8
+54,55,21,Masculino,Graduação,Panama,3.6,Facebook,No,6.5,7,Em relacionamento,2,5
+55,56,20,Feminino,Graduação,Jamaica,4.9,Snapchat,Yes,5.6,6,Complicado,3,7
+56,57,18,Masculino,Ensino médio,Trinidad,5.6,TikTok,Yes,5.2,5,Solteiro,4,8
+57,58,23,Feminino,Diplomado,Bahamas,2.8,LinkedIn,No,7.0,8,Em relacionamento,1,4
+58,59,19,Masculino,Graduação,Iceland,4.6,Instagram,Yes,5.9,6,Complicado,3,7
+59,60,20,Feminino,Graduação,Finland,5.4,TikTok,Yes,5.7,5,Solteiro,4,8
+60,61,22,Masculino,Diplomado,Poland,3.1,Facebook,No,7.1,7,Solteiro,1,5
+61,62,19,Feminino,Graduação,Romania,5.6,Instagram,Yes,5.6,5,Em relacionamento,3,8
+62,63,20,Masculino,Graduação,Hungary,4.2,TikTok,Yes,6.0,6,Complicado,3,7
+63,64,18,Feminino,Ensino médio,Czech Republic,6.1,Snapchat,Yes,5.2,4,Solteiro,4,9
+64,65,23,Masculino,Diplomado,Slovakia,2.3,LinkedIn,No,7.4,8,Em relacionamento,1,3
+65,66,21,Feminino,Graduação,Croatia,4.8,Instagram,Yes,5.8,6,Solteiro,3,7
+66,67,20,Masculino,Graduação,Serbia,3.9,YouTube,No,6.5,7,Complicado,2,6
+67,68,19,Feminino,Ensino médio,Slovenia,5.7,TikTok,Yes,5.4,5,Em relacionamento,4,8
+68,69,22,Masculino,Diplomado,Bulgaria,2.8,LinkedIn,No,7.2,8,Solteiro,1,4
+69,70,20,Feminino,Graduação,Estonia,4.5,Instagram,Yes,5.9,6,Complicado,3,7
+70,71,18,Masculino,Ensino médio,Latvia,5.4,Snapchat,Yes,5.5,5,Solteiro,4,8
+71,72,21,Feminino,Diplomado,Lithuania,3.2,Facebook,No,6.8,7,Em relacionamento,2,5
+72,73,19,Masculino,Graduação,Ukraine,4.9,TikTok,Yes,5.7,6,Complicado,3,7
+73,74,20,Feminino,Graduação,Moldova,5.8,Instagram,Yes,5.3,5,Solteiro,4,8
+74,75,23,Masculino,Diplomado,Belarus,2.5,LinkedIn,No,7.3,8,Em relacionamento,1,4
+75,76,21,Feminino,Graduação,Kazakhstan,4.6,Snapchat,Yes,5.8,6,Solteiro,3,7
+76,77,19,Masculino,Ensino médio,Uzbekistan,5.5,TikTok,Yes,5.4,5,Complicado,4,8
+77,78,22,Feminino,Diplomado,Kyrgyzstan,2.9,Facebook,No,7.0,7,Em relacionamento,2,5
+78,79,20,Masculino,Graduação,Tajikistan,4.7,YouTube,Yes,5.9,6,Solteiro,3,7
+79,80,18,Feminino,Ensino médio,Armenia,5.9,Instagram,Yes,5.2,5,Complicado,4,9
+80,81,21,Masculino,Diplomado,Georgia,3.0,LinkedIn,No,7.1,8,Em relacionamento,1,4
+81,82,19,Feminino,Graduação,Azerbaijan,4.8,TikTok,Yes,5.7,6,Solteiro,3,7
+82,83,20,Masculino,Graduação,Cyprus,3.8,Facebook,No,6.6,7,Complicado,2,6
+83,84,22,Feminino,Diplomado,Malta,2.7,LinkedIn,No,7.2,8,Em relacionamento,1,4
+84,85,18,Masculino,Ensino médio,Luxembourg,5.6,Snapchat,Yes,5.3,5,Solteiro,4,8
+85,86,21,Feminino,Graduação,Monaco,4.5,Instagram,Yes,5.8,6,Complicado,3,7
+86,87,19,Masculino,Ensino médio,Andorra,5.3,TikTok,Yes,5.5,5,Em relacionamento,4,8
+87,88,23,Feminino,Diplomado,San Marino,2.6,LinkedIn,No,7.3,8,Solteiro,1,4
+88,89,20,Masculino,Graduação,Vatican City,4.4,YouTube,Yes,6.0,6,Complicado,3,7
+89,90,18,Feminino,Ensino médio,Liechtenstein,5.8,Instagram,Yes,5.2,5,Solteiro,4,9
+90,91,22,Masculino,Diplomado,Montenegro,2.9,Facebook,No,7.0,7,Em relacionamento,2,5
+91,92,19,Feminino,Graduação,Albania,4.7,TikTok,Yes,5.8,6,Complicado,3,7
+92,93,21,Masculino,Graduação,North Macedonia,3.7,Snapchat,No,6.5,7,Solteiro,2,6
+93,94,20,Feminino,Ensino médio,Kosovo,5.5,Instagram,Yes,5.4,5,Em relacionamento,4,8
+94,95,23,Masculino,Diplomado,Bosnia,2.4,LinkedIn,No,7.4,8,Complicado,1,4
+95,96,19,Feminino,Graduação,Qatar,4.9,TikTok,Yes,5.7,6,Solteiro,3,7
+96,97,18,Masculino,Ensino médio,Kuwait,5.7,Snapchat,Yes,5.3,5,Em relacionamento,4,8
+97,98,22,Feminino,Diplomado,Bahrain,2.8,LinkedIn,No,7.1,8,Complicado,1,4
+98,99,20,Masculino,Graduação,Oman,4.6,Instagram,Yes,5.9,6,Solteiro,3,7
+99,100,21,Feminino,Graduação,Jordan,5.4,TikTok,Yes,5.5,5,Em relacionamento,4,8
+100,101,19,Masculino,Ensino médio,Lebanon,5.8,YouTube,Yes,5.2,5,Complicado,4,9
+101,102,23,Feminino,Diplomado,Iraq,2.5,LinkedIn,No,7.3,8,Solteiro,1,4
+102,103,20,Masculino,Graduação,Yemen,4.7,Facebook,Yes,5.8,6,Em relacionamento,3,7
+103,104,18,Feminino,Ensino médio,Syria,5.6,Instagram,Yes,5.4,5,Solteiro,4,8
+104,105,22,Masculino,Diplomado,Afghanistan,2.9,LinkedIn,No,7.0,7,Complicado,2,5
+105,106,19,Feminino,Graduação,Pakistan,4.8,TikTok,Yes,5.7,6,Em relacionamento,3,7
+106,107,21,Masculino,Graduação,Nepal,3.8,YouTube,No,6.6,7,Solteiro,2,6
+107,108,20,Feminino,Ensino médio,Bhutan,5.5,Snapchat,Yes,5.5,5,Complicado,4,8
+108,109,23,Masculino,Diplomado,Sri Lanka,2.6,LinkedIn,No,7.2,8,Em relacionamento,1,4
+109,110,19,Feminino,Graduação,Maldives,4.9,Instagram,Yes,5.8,6,Solteiro,3,7
+110,111,20,Masculino,Graduação,Bangladesh,6.1,Instagram,Yes,6.2,5,Solteiro,4,8
+111,112,21,Feminino,Graduação,India,5.8,TikTok,Yes,5.9,6,Em relacionamento,3,7
+112,113,19,Masculino,Graduação,Nepal,4.9,Facebook,No,7.1,7,Solteiro,2,5
+113,114,22,Feminino,Diplomado,Pakistan,5.5,Instagram,Yes,6.0,5,Solteiro,4,8
+114,115,20,Masculino,Graduação,Sri Lanka,5.2,TikTok,Yes,6.3,6,Em relacionamento,3,7
+115,116,19,Feminino,Graduação,Maldives,4.8,Instagram,No,7.2,8,Solteiro,2,5
+116,117,21,Masculino,Diplomado,Bangladesh,6.0,Facebook,Yes,5.8,5,Em relacionamento,4,8
+117,118,20,Feminino,Graduação,India,5.7,Instagram,Yes,6.1,6,Solteiro,3,7
+118,119,22,Masculino,Diplomado,Nepal,4.7,TikTok,No,7.3,7,Solteiro,2,5
+119,120,19,Feminino,Graduação,Pakistan,5.4,Instagram,Yes,6.2,5,Em relacionamento,4,8
+120,121,20,Masculino,Graduação,Sri Lanka,5.9,Facebook,Yes,5.9,6,Solteiro,3,7
+121,122,21,Feminino,Diplomado,Maldives,4.6,Instagram,No,7.4,8,Em relacionamento,2,5
+122,123,19,Masculino,Graduação,Bangladesh,5.3,TikTok,Yes,6.3,5,Solteiro,4,8
+123,124,22,Feminino,Diplomado,India,5.8,Instagram,Yes,5.8,6,Em relacionamento,3,7
+124,125,20,Masculino,Graduação,Nepal,4.5,Facebook,No,7.5,7,Solteiro,2,5
+125,126,21,Feminino,Diplomado,Pakistan,5.2,Instagram,Yes,6.4,5,Em relacionamento,4,8
+126,127,19,Masculino,Graduação,Sri Lanka,5.7,TikTok,Yes,5.7,6,Solteiro,3,7
+127,128,20,Feminino,Graduação,Maldives,4.4,Instagram,No,7.6,8,Em relacionamento,2,5
+128,129,22,Masculino,Diplomado,Bangladesh,5.1,Facebook,Yes,6.5,5,Solteiro,4,8
+129,130,21,Feminino,Diplomado,India,5.6,Instagram,Yes,5.6,6,Em relacionamento,3,7
+130,131,19,Masculino,Graduação,Nepal,4.3,TikTok,No,7.7,7,Solteiro,2,5
+131,132,20,Feminino,Graduação,Pakistan,5.0,Instagram,Yes,6.6,5,Em relacionamento,4,8
+132,133,22,Masculino,Diplomado,Sri Lanka,5.5,Facebook,Yes,5.5,6,Solteiro,3,7
+133,134,21,Feminino,Diplomado,Maldives,4.2,Instagram,No,7.8,8,Em relacionamento,2,5
+134,135,19,Masculino,Graduação,Bangladesh,4.9,TikTok,Yes,6.7,5,Solteiro,4,8
+135,136,20,Feminino,Graduação,India,5.4,Instagram,Yes,5.4,6,Em relacionamento,3,7
+136,137,22,Masculino,Diplomado,Nepal,4.1,Facebook,No,7.9,7,Solteiro,2,5
+137,138,21,Feminino,Diplomado,Pakistan,4.8,Instagram,Yes,6.8,5,Em relacionamento,4,8
+138,139,19,Masculino,Graduação,Sri Lanka,5.3,TikTok,Yes,5.3,6,Solteiro,3,7
+139,140,20,Feminino,Graduação,Maldives,4.0,Instagram,No,8.0,8,Em relacionamento,2,5
+140,141,22,Masculino,Diplomado,Bangladesh,4.7,Facebook,Yes,6.9,5,Solteiro,4,8
+141,142,21,Feminino,Diplomado,India,5.2,Instagram,Yes,5.2,6,Em relacionamento,3,7
+142,143,19,Masculino,Graduação,Nepal,3.9,TikTok,No,8.1,7,Solteiro,2,5
+143,144,20,Feminino,Graduação,Pakistan,4.6,Instagram,Yes,7.0,5,Em relacionamento,4,8
+144,145,22,Masculino,Diplomado,Sri Lanka,5.1,Facebook,Yes,5.1,6,Solteiro,3,7
+145,146,21,Feminino,Diplomado,Maldives,3.8,Instagram,No,8.2,8,Em relacionamento,2,5
+146,147,19,Masculino,Graduação,Bangladesh,4.5,TikTok,Yes,7.1,5,Solteiro,4,8
+147,148,20,Feminino,Graduação,India,5.0,Instagram,Yes,5.0,6,Em relacionamento,3,7
+148,149,22,Masculino,Diplomado,Nepal,3.7,Facebook,No,8.3,7,Solteiro,2,5
+149,150,21,Feminino,Diplomado,Pakistan,4.4,Instagram,Yes,7.2,5,Em relacionamento,4,8
+150,151,19,Masculino,Graduação,Sri Lanka,4.9,TikTok,Yes,4.9,6,Solteiro,3,7
+151,152,20,Feminino,Graduação,Maldives,3.6,Instagram,No,8.4,8,Em relacionamento,2,5
+152,153,22,Masculino,Diplomado,Bangladesh,4.3,Facebook,Yes,7.3,5,Solteiro,4,8
+153,154,21,Feminino,Diplomado,India,4.8,Instagram,Yes,4.8,6,Em relacionamento,3,7
+154,155,19,Masculino,Graduação,Nepal,3.5,TikTok,No,8.5,7,Solteiro,2,5
+155,156,20,Feminino,Graduação,Pakistan,4.2,Instagram,Yes,7.4,5,Em relacionamento,4,8
+156,157,22,Masculino,Diplomado,Sri Lanka,4.7,Facebook,Yes,4.7,6,Solteiro,3,7
+157,158,21,Feminino,Diplomado,Maldives,3.4,Instagram,No,8.6,8,Em relacionamento,2,5
+158,159,19,Masculino,Graduação,Bangladesh,4.1,TikTok,Yes,7.5,5,Solteiro,4,8
+159,160,20,Feminino,Graduação,India,4.6,Instagram,Yes,4.6,6,Em relacionamento,3,7
+160,161,19,Feminino,Graduação,Bangladesh,5.3,Instagram,Yes,6.1,5,Solteiro,3,7
+161,162,21,Masculino,Diplomado,India,4.8,Facebook,No,7.2,7,Em relacionamento,2,6
+162,163,20,Feminino,Graduação,Nepal,5.5,TikTok,Yes,5.9,6,Solteiro,4,8
+163,164,22,Masculino,Diplomado,Pakistan,4.7,Instagram,Yes,6.3,5,Em relacionamento,3,7
+164,165,19,Feminino,Graduação,Sri Lanka,5.1,Facebook,No,7.0,7,Solteiro,2,5
+165,166,21,Masculino,Diplomado,Maldives,5.4,TikTok,Yes,6.0,6,Em relacionamento,4,8
+166,167,20,Feminino,Graduação,Bangladesh,4.9,Instagram,Yes,6.4,5,Solteiro,3,7
+167,168,22,Masculino,Diplomado,India,5.2,Facebook,No,7.1,7,Em relacionamento,2,6
+168,169,19,Feminino,Graduação,Nepal,5.6,TikTok,Yes,5.8,6,Solteiro,4,8
+169,170,21,Masculino,Diplomado,Pakistan,4.6,Instagram,Yes,6.5,5,Em relacionamento,3,7
+170,171,20,Feminino,Graduação,Sri Lanka,5.0,Facebook,No,7.3,7,Solteiro,2,5
+171,172,22,Masculino,Diplomado,Maldives,5.3,TikTok,Yes,5.7,6,Em relacionamento,4,8
+172,173,19,Feminino,Graduação,Bangladesh,4.8,Instagram,Yes,6.6,5,Solteiro,3,7
+173,174,21,Masculino,Diplomado,India,5.1,Facebook,No,7.4,7,Em relacionamento,2,6
+174,175,20,Feminino,Graduação,Nepal,5.7,TikTok,Yes,5.6,6,Solteiro,4,8
+175,176,22,Masculino,Diplomado,Pakistan,4.5,Instagram,Yes,6.7,5,Em relacionamento,3,7
+176,177,19,Feminino,Graduação,Sri Lanka,4.9,Facebook,No,7.5,7,Solteiro,2,5
+177,178,21,Masculino,Diplomado,Maldives,5.2,TikTok,Yes,5.5,6,Em relacionamento,4,8
+178,179,20,Feminino,Graduação,Bangladesh,4.7,Instagram,Yes,6.8,5,Solteiro,3,7
+179,180,22,Masculino,Diplomado,India,5.0,Facebook,No,7.6,7,Em relacionamento,2,6
+180,181,19,Feminino,Graduação,Nepal,5.8,TikTok,Yes,5.4,6,Solteiro,4,8
+181,182,21,Masculino,Diplomado,Pakistan,4.4,Instagram,Yes,6.9,5,Em relacionamento,3,7
+182,183,20,Feminino,Graduação,Sri Lanka,4.8,Facebook,No,7.7,7,Solteiro,2,5
+183,184,22,Masculino,Diplomado,Maldives,5.1,TikTok,Yes,5.3,6,Em relacionamento,4,8
+184,185,19,Feminino,Graduação,Bangladesh,4.6,Instagram,Yes,7.0,5,Solteiro,3,7
+185,186,21,Masculino,Diplomado,India,4.9,Facebook,No,7.8,7,Em relacionamento,2,6
+186,187,20,Feminino,Graduação,Nepal,5.9,TikTok,Yes,5.2,6,Solteiro,4,8
+187,188,22,Masculino,Diplomado,Pakistan,4.3,Instagram,Yes,7.1,5,Em relacionamento,3,7
+188,189,19,Feminino,Graduação,Sri Lanka,4.7,Facebook,No,7.9,7,Solteiro,2,5
+189,190,21,Masculino,Diplomado,Maldives,5.0,TikTok,Yes,5.1,6,Em relacionamento,4,8
+190,191,20,Feminino,Graduação,Bangladesh,4.5,Instagram,Yes,7.2,5,Solteiro,3,7
+191,192,22,Masculino,Diplomado,India,4.8,Facebook,No,8.0,7,Em relacionamento,2,6
+192,193,19,Feminino,Graduação,Nepal,6.0,TikTok,Yes,5.0,6,Solteiro,4,8
+193,194,21,Masculino,Diplomado,Pakistan,4.2,Instagram,Yes,7.3,5,Em relacionamento,3,7
+194,195,20,Feminino,Graduação,Sri Lanka,4.6,Facebook,No,8.1,7,Solteiro,2,5
+195,196,22,Masculino,Diplomado,Maldives,4.9,TikTok,Yes,4.9,6,Em relacionamento,4,8
+196,197,19,Feminino,Graduação,Bangladesh,4.4,Instagram,Yes,7.4,5,Solteiro,3,7
+197,198,21,Masculino,Diplomado,India,4.7,Facebook,No,8.2,7,Em relacionamento,2,6
+198,199,20,Feminino,Graduação,Nepal,6.1,TikTok,Yes,4.8,6,Solteiro,4,8
+199,200,22,Masculino,Diplomado,Pakistan,4.1,Instagram,Yes,7.5,5,Em relacionamento,3,7
+200,201,19,Feminino,Graduação,Sri Lanka,4.5,Facebook,No,8.3,7,Solteiro,2,5
+201,202,21,Masculino,Diplomado,Maldives,4.8,TikTok,Yes,4.7,6,Em relacionamento,4,8
+202,203,20,Feminino,Graduação,Bangladesh,4.3,Instagram,Yes,7.6,5,Solteiro,3,7
+203,204,22,Masculino,Diplomado,India,4.6,Facebook,No,8.4,7,Em relacionamento,2,6
+204,205,19,Feminino,Graduação,Nepal,6.2,TikTok,Yes,4.6,6,Solteiro,4,8
+205,206,21,Masculino,Diplomado,Pakistan,4.0,Instagram,Yes,7.7,5,Em relacionamento,3,7
+206,207,20,Feminino,Graduação,Sri Lanka,4.4,Facebook,No,8.5,7,Solteiro,2,5
+207,208,22,Masculino,Diplomado,Maldives,4.7,TikTok,Yes,4.5,6,Em relacionamento,4,8
+208,209,19,Feminino,Graduação,Bangladesh,4.2,Instagram,Yes,7.8,5,Solteiro,3,7
+209,210,21,Masculino,Diplomado,India,4.5,Facebook,No,8.6,7,Em relacionamento,2,6
+210,211,20,Feminino,Graduação,Nepal,6.3,TikTok,Yes,4.4,6,Solteiro,4,8
+211,212,22,Masculino,Diplomado,Pakistan,3.9,Instagram,Yes,7.9,5,Em relacionamento,3,7
+212,213,19,Feminino,Graduação,Sri Lanka,4.3,Facebook,No,8.7,7,Solteiro,2,5
+213,214,21,Masculino,Diplomado,Maldives,4.6,TikTok,Yes,4.3,6,Em relacionamento,4,8
+214,215,20,Feminino,Graduação,Bangladesh,4.1,Instagram,Yes,8.0,5,Solteiro,3,7
+215,216,22,Masculino,Diplomado,India,4.4,Facebook,No,8.8,7,Em relacionamento,2,6
+216,217,19,Feminino,Graduação,Nepal,6.4,TikTok,Yes,4.2,6,Solteiro,4,8
+217,218,21,Masculino,Diplomado,Pakistan,3.8,Instagram,Yes,8.1,5,Em relacionamento,3,7
+218,219,20,Feminino,Graduação,Sri Lanka,4.2,Facebook,No,8.9,7,Solteiro,2,5
+219,220,22,Masculino,Diplomado,Maldives,4.5,TikTok,Yes,4.1,6,Em relacionamento,4,8
+220,221,19,Feminino,Graduação,USA,6.5,Instagram,Yes,6.0,5,Solteiro,4,9
+221,222,21,Masculino,Diplomado,UK,5.8,TikTok,Yes,6.5,6,Em relacionamento,3,7
+222,223,20,Feminino,Graduação,Australia,4.5,Instagram,No,7.5,8,Solteiro,2,5
+223,224,22,Masculino,Diplomado,Germany,4.2,Facebook,No,7.8,7,Em relacionamento,2,4
+224,225,19,Feminino,Graduação,Japan,3.8,LINE,No,7.9,8,Solteiro,1,3
+225,226,21,Masculino,Diplomado,Italy,5.5,Instagram,Yes,6.8,6,Solteiro,3,7
+226,227,20,Feminino,Graduação,South Korea,5.2,KakaoTalk,Yes,6.5,6,Em relacionamento,3,6
+227,228,22,Masculino,Diplomado,Russia,4.8,VKontakte,No,7.2,7,Solteiro,2,5
+228,229,19,Feminino,Graduação,USA,7.0,TikTok,Yes,5.8,4,Em relacionamento,4,9
+229,230,21,Masculino,Diplomado,UK,5.5,Instagram,Yes,6.7,6,Solteiro,3,7
+230,231,20,Feminino,Graduação,Australia,4.7,Facebook,No,7.4,7,Em relacionamento,2,5
+231,232,22,Masculino,Diplomado,Germany,4.0,Instagram,No,7.9,8,Solteiro,1,4
+232,233,19,Feminino,Graduação,Japan,3.5,LINE,No,8.0,8,Solteiro,1,3
+233,234,21,Masculino,Diplomado,Italy,5.7,TikTok,Yes,6.5,5,Em relacionamento,3,8
+234,235,20,Feminino,Graduação,South Korea,5.0,KakaoTalk,Yes,6.8,6,Solteiro,3,6
+235,236,22,Masculino,Diplomado,Russia,4.5,VKontakte,No,7.4,7,Em relacionamento,2,5
+236,237,19,Feminino,Graduação,USA,6.8,Instagram,Yes,5.9,4,Solteiro,4,9
+237,238,21,Masculino,Diplomado,UK,5.6,Facebook,Yes,6.6,6,Em relacionamento,3,7
+238,239,20,Feminino,Graduação,Australia,4.6,Instagram,No,7.3,7,Solteiro,2,5
+239,240,22,Masculino,Diplomado,Germany,4.1,Facebook,No,7.7,8,Em relacionamento,2,4
+240,241,19,Feminino,Graduação,Japan,3.7,LINE,No,7.8,8,Solteiro,1,3
+241,242,21,Masculino,Diplomado,Italy,5.4,Instagram,Yes,6.7,5,Solteiro,3,7
+242,243,20,Feminino,Graduação,South Korea,5.1,KakaoTalk,Yes,6.6,6,Em relacionamento,3,6
+243,244,22,Masculino,Diplomado,Russia,4.7,VKontakte,No,7.3,7,Solteiro,2,5
+244,245,19,Feminino,Graduação,USA,6.9,TikTok,Yes,5.7,4,Em relacionamento,4,9
+245,246,21,Masculino,Diplomado,UK,5.7,Instagram,Yes,6.4,6,Solteiro,3,7
+246,247,20,Feminino,Graduação,Australia,4.8,Facebook,No,7.2,7,Em relacionamento,2,5
+247,248,22,Masculino,Diplomado,Germany,3.9,Instagram,No,7.8,8,Solteiro,1,4
+248,249,19,Feminino,Graduação,Japan,3.6,LINE,No,8.1,8,Solteiro,1,3
+249,250,21,Masculino,Diplomado,Italy,5.6,TikTok,Yes,6.6,5,Em relacionamento,3,8
+250,251,20,Feminino,Graduação,South Korea,4.9,KakaoTalk,Yes,6.9,6,Solteiro,3,6
+251,252,22,Masculino,Diplomado,Russia,4.6,VKontakte,No,7.5,7,Em relacionamento,2,5
+252,253,19,Feminino,Graduação,USA,6.7,Instagram,Yes,5.8,4,Solteiro,4,9
+253,254,21,Masculino,Diplomado,UK,5.4,Facebook,Yes,6.5,6,Em relacionamento,3,7
+254,255,20,Feminino,Graduação,Australia,4.4,Instagram,No,7.4,7,Solteiro,2,5
+255,256,22,Masculino,Diplomado,Germany,4.0,Facebook,No,7.6,8,Em relacionamento,2,4
+256,257,19,Feminino,Graduação,Japan,3.4,LINE,No,8.2,8,Solteiro,1,3
+257,258,21,Masculino,Diplomado,Italy,5.3,Instagram,Yes,6.8,5,Solteiro,3,7
+258,259,20,Feminino,Graduação,South Korea,5.0,KakaoTalk,Yes,6.7,6,Em relacionamento,3,6
+259,260,22,Masculino,Diplomado,Russia,4.4,VKontakte,No,7.6,7,Solteiro,2,5
+260,261,19,Feminino,Graduação,USA,6.6,TikTok,Yes,5.6,4,Em relacionamento,4,9
+261,262,21,Masculino,Diplomado,UK,5.3,Instagram,Yes,6.3,6,Solteiro,3,7
+262,263,20,Feminino,Graduação,Australia,4.3,Facebook,No,7.5,7,Em relacionamento,2,5
+263,264,22,Masculino,Diplomado,Germany,3.8,Instagram,No,7.7,8,Solteiro,1,4
+264,265,19,Feminino,Graduação,Japan,3.3,LINE,No,8.3,8,Solteiro,1,3
+265,266,21,Masculino,Diplomado,Italy,5.2,TikTok,Yes,6.9,5,Em relacionamento,3,8
+266,267,20,Feminino,Graduação,South Korea,4.8,KakaoTalk,Yes,7.0,6,Solteiro,3,6
+267,268,22,Masculino,Diplomado,Russia,4.3,VKontakte,No,7.7,7,Em relacionamento,2,5
+268,269,19,Feminino,Graduação,USA,6.4,Instagram,Yes,5.7,4,Solteiro,4,9
+269,270,21,Masculino,Diplomado,UK,5.2,Facebook,Yes,6.4,6,Em relacionamento,3,7
+270,271,20,Feminino,Graduação,Australia,4.5,Instagram,No,7.3,7,Solteiro,2,5
+271,272,22,Masculino,Diplomado,Germany,3.7,Facebook,No,7.8,8,Em relacionamento,1,4
+272,273,19,Feminino,Graduação,Japan,3.2,LINE,No,8.4,8,Solteiro,1,3
+273,274,21,Masculino,Diplomado,Italy,5.4,Instagram,Yes,6.7,5,Solteiro,3,7
+274,275,20,Feminino,Graduação,South Korea,4.7,KakaoTalk,Yes,7.1,6,Em relacionamento,3,6
+275,276,22,Masculino,Diplomado,Russia,4.2,VKontakte,No,7.8,7,Solteiro,2,5
+276,277,19,Feminino,Graduação,USA,6.6,TikTok,Yes,5.5,4,Em relacionamento,4,9
+277,278,21,Masculino,Diplomado,UK,5.1,Instagram,Yes,6.5,6,Solteiro,3,7
+278,279,20,Feminino,Graduação,Australia,4.4,Facebook,No,7.4,7,Em relacionamento,2,5
+279,280,22,Masculino,Diplomado,Germany,3.6,Instagram,No,7.9,8,Solteiro,1,4
+280,281,19,Feminino,Graduação,Japan,3.1,LINE,No,8.5,8,Solteiro,1,3
+281,282,21,Masculino,Diplomado,Italy,5.3,TikTok,Yes,6.8,5,Em relacionamento,3,8
+282,283,20,Feminino,Graduação,South Korea,4.6,KakaoTalk,Yes,7.2,6,Solteiro,3,6
+283,284,22,Masculino,Diplomado,Russia,4.1,VKontakte,No,7.9,7,Em relacionamento,2,5
+284,285,19,Feminino,Graduação,USA,6.7,Instagram,Yes,5.4,4,Solteiro,4,9
+285,286,21,Masculino,Diplomado,UK,5.0,Facebook,Yes,6.6,6,Em relacionamento,3,7
+286,287,20,Feminino,Graduação,Australia,4.3,Instagram,No,7.5,7,Solteiro,2,5
+287,288,22,Masculino,Diplomado,Germany,3.5,Facebook,No,8.0,8,Em relacionamento,1,4
+288,289,19,Feminino,Graduação,Japan,3.0,LINE,No,8.6,8,Solteiro,1,3
+289,290,21,Masculino,Diplomado,Italy,5.2,Instagram,Yes,6.9,5,Solteiro,3,7
+290,291,20,Feminino,Graduação,South Korea,4.5,KakaoTalk,Yes,7.3,6,Em relacionamento,3,6
+291,292,22,Masculino,Diplomado,Russia,4.0,VKontakte,No,8.0,7,Solteiro,2,5
+292,293,19,Feminino,Graduação,USA,6.8,TikTok,Yes,5.3,4,Em relacionamento,4,9
+293,294,21,Masculino,Diplomado,UK,4.9,Instagram,Yes,6.7,6,Solteiro,3,7
+294,295,20,Feminino,Graduação,Australia,4.2,Facebook,No,7.6,7,Em relacionamento,2,5
+295,296,22,Masculino,Diplomado,Germany,3.4,Instagram,No,8.1,8,Solteiro,1,4
+296,297,19,Feminino,Graduação,Japan,2.9,LINE,No,8.7,8,Solteiro,1,3
+297,298,21,Masculino,Diplomado,Italy,5.1,TikTok,Yes,7.0,5,Em relacionamento,3,8
+298,299,20,Feminino,Graduação,South Korea,4.4,KakaoTalk,Yes,7.4,6,Solteiro,3,6
+299,300,22,Masculino,Diplomado,Russia,3.9,VKontakte,No,8.1,7,Em relacionamento,2,5
+300,301,19,Feminino,Graduação,USA,6.9,Instagram,Yes,5.2,4,Solteiro,4,9
+301,302,21,Masculino,Diplomado,UK,4.8,Facebook,Yes,6.8,6,Em relacionamento,3,7
+302,303,20,Feminino,Graduação,Australia,4.1,Instagram,No,7.7,7,Solteiro,2,5
+303,304,22,Masculino,Diplomado,Germany,3.3,Facebook,No,8.2,8,Em relacionamento,1,4
+304,305,19,Feminino,Graduação,Japan,2.8,LINE,No,8.8,8,Solteiro,1,3
+305,306,21,Masculino,Diplomado,Italy,5.0,Instagram,Yes,7.1,5,Solteiro,3,7
+306,307,20,Feminino,Graduação,South Korea,4.3,KakaoTalk,Yes,7.5,6,Em relacionamento,3,6
+307,308,22,Masculino,Diplomado,Russia,3.8,VKontakte,No,8.2,7,Solteiro,2,5
+308,309,19,Feminino,Graduação,USA,7.0,TikTok,Yes,5.1,4,Em relacionamento,4,9
+309,310,21,Masculino,Diplomado,UK,4.7,Instagram,Yes,6.9,6,Solteiro,3,7
+310,311,20,Feminino,Graduação,Australia,4.0,Facebook,No,7.8,7,Em relacionamento,2,5
+311,312,22,Masculino,Diplomado,Germany,3.2,Instagram,No,8.3,8,Solteiro,1,4
+312,313,19,Feminino,Graduação,Japan,2.7,LINE,No,8.9,8,Solteiro,1,3
+313,314,21,Masculino,Diplomado,Italy,4.9,TikTok,Yes,7.2,5,Em relacionamento,3,8
+314,315,20,Feminino,Graduação,South Korea,4.2,KakaoTalk,Yes,7.6,6,Solteiro,3,6
+315,316,22,Masculino,Diplomado,Russia,3.7,VKontakte,No,8.3,7,Em relacionamento,2,5
+316,317,19,Feminino,Graduação,USA,7.1,Instagram,Yes,5.0,4,Solteiro,4,9
+317,318,21,Masculino,Diplomado,UK,4.6,Facebook,Yes,7.0,6,Em relacionamento,3,7
+318,319,20,Feminino,Graduação,Australia,3.9,Instagram,No,7.9,7,Solteiro,2,5
+319,320,22,Masculino,Diplomado,Germany,3.1,Facebook,No,8.4,8,Em relacionamento,1,4
+320,321,19,Feminino,Graduação,Spain,5.2,Instagram,Yes,6.8,6,Solteiro,3,7
+321,322,21,Masculino,Diplomado,Denmark,4.1,Facebook,No,7.8,8,Em relacionamento,2,4
+322,323,20,Feminino,Graduação,Ireland,5.0,Instagram,Yes,7.0,7,Solteiro,3,6
+323,324,22,Masculino,Diplomado,India,5.8,WhatsApp,Yes,6.5,5,Em relacionamento,4,8
+324,325,19,Feminino,Graduação,Switzerland,4.0,Instagram,No,7.9,8,Solteiro,2,4
+325,326,21,Masculino,Diplomado,Turkey,5.5,Instagram,Yes,6.7,6,Solteiro,3,7
+326,327,20,Feminino,Graduação,USA,6.8,TikTok,Yes,5.5,5,Em relacionamento,4,9
+327,328,22,Masculino,Diplomado,Mexico,5.6,WhatsApp,Yes,6.6,6,Solteiro,3,7
+328,329,19,Feminino,Graduação,France,4.5,Instagram,No,7.5,7,Em relacionamento,2,5
+329,330,21,Masculino,Diplomado,Canada,5.3,Instagram,Yes,6.9,6,Solteiro,3,7
+330,331,20,Feminino,Graduação,Spain,5.1,TikTok,Yes,6.7,6,Solteiro,3,7
+331,332,22,Masculino,Diplomado,Denmark,3.9,Facebook,No,7.9,8,Em relacionamento,2,4
+332,333,19,Feminino,Graduação,Ireland,4.8,Instagram,Yes,7.1,7,Solteiro,3,6
+333,334,21,Masculino,Diplomado,India,5.9,WhatsApp,Yes,6.4,5,Em relacionamento,4,8
+334,335,20,Feminino,Graduação,Switzerland,3.8,Instagram,No,8.0,8,Solteiro,2,4
+335,336,22,Masculino,Diplomado,Turkey,5.4,TikTok,Yes,6.8,6,Solteiro,3,7
+336,337,19,Feminino,Graduação,USA,6.9,Instagram,Yes,5.4,5,Em relacionamento,4,9
+337,338,21,Masculino,Diplomado,Mexico,5.7,WhatsApp,Yes,6.5,6,Solteiro,3,7
+338,339,20,Feminino,Graduação,France,4.4,Instagram,No,7.6,7,Em relacionamento,2,5
+339,340,22,Masculino,Diplomado,Canada,5.2,TikTok,Yes,7.0,6,Solteiro,3,7
+340,341,19,Feminino,Graduação,Spain,5.0,Instagram,Yes,6.9,6,Solteiro,3,7
+341,342,21,Masculino,Diplomado,Denmark,3.8,Facebook,No,8.0,8,Em relacionamento,2,4
+342,343,20,Feminino,Graduação,Ireland,4.7,TikTok,Yes,7.2,7,Solteiro,3,6
+343,344,22,Masculino,Diplomado,India,6.0,WhatsApp,Yes,6.3,5,Em relacionamento,4,8
+344,345,19,Feminino,Graduação,Switzerland,3.7,Instagram,No,8.1,8,Solteiro,2,4
+345,346,21,Masculino,Diplomado,Turkey,5.3,Instagram,Yes,6.9,6,Solteiro,3,7
+346,347,20,Feminino,Graduação,USA,7.0,TikTok,Yes,5.3,5,Em relacionamento,4,9
+347,348,22,Masculino,Diplomado,Mexico,5.8,WhatsApp,Yes,6.4,6,Solteiro,3,7
+348,349,19,Feminino,Graduação,France,4.3,Instagram,No,7.7,7,Em relacionamento,2,5
+349,350,21,Masculino,Diplomado,Canada,5.1,Instagram,Yes,7.1,6,Solteiro,3,7
+350,351,20,Feminino,Graduação,Spain,4.9,TikTok,Yes,7.0,6,Solteiro,3,7
+351,352,22,Masculino,Diplomado,Denmark,3.7,Facebook,No,8.1,8,Em relacionamento,2,4
+352,353,19,Feminino,Graduação,Ireland,4.6,Instagram,Yes,7.3,7,Solteiro,3,6
+353,354,21,Masculino,Diplomado,India,6.1,WhatsApp,Yes,6.2,5,Em relacionamento,4,8
+354,355,20,Feminino,Graduação,Switzerland,3.6,Instagram,No,8.2,8,Solteiro,2,4
+355,356,22,Masculino,Diplomado,Turkey,5.2,TikTok,Yes,7.0,6,Solteiro,3,7
+356,357,19,Feminino,Graduação,USA,7.1,Instagram,Yes,5.2,5,Em relacionamento,4,9
+357,358,21,Masculino,Diplomado,Mexico,5.9,WhatsApp,Yes,6.3,6,Solteiro,3,7
+358,359,20,Feminino,Graduação,France,4.2,Instagram,No,7.8,7,Em relacionamento,2,5
+359,360,22,Masculino,Diplomado,Canada,5.0,TikTok,Yes,7.2,6,Solteiro,3,7
+360,361,19,Feminino,Graduação,Spain,4.8,Instagram,Yes,7.1,6,Solteiro,3,7
+361,362,21,Masculino,Diplomado,Denmark,3.6,Facebook,No,8.2,8,Em relacionamento,2,4
+362,363,20,Feminino,Graduação,Ireland,4.5,TikTok,Yes,7.4,7,Solteiro,3,6
+363,364,22,Masculino,Diplomado,India,6.2,WhatsApp,Yes,6.1,5,Em relacionamento,4,8
+364,365,19,Feminino,Graduação,Switzerland,3.5,Instagram,No,8.3,8,Solteiro,2,4
+365,366,21,Masculino,Diplomado,Turkey,5.1,Instagram,Yes,7.1,6,Solteiro,3,7
+366,367,20,Feminino,Graduação,USA,7.2,TikTok,Yes,5.1,5,Em relacionamento,4,9
+367,368,22,Masculino,Diplomado,Mexico,6.0,WhatsApp,Yes,6.2,6,Solteiro,3,7
+368,369,19,Feminino,Graduação,France,4.1,Instagram,No,7.9,7,Em relacionamento,2,5
+369,370,21,Masculino,Diplomado,Canada,4.9,Instagram,Yes,7.3,6,Solteiro,3,7
+370,371,20,Feminino,Graduação,Spain,4.7,TikTok,Yes,7.2,6,Solteiro,3,7
+371,372,22,Masculino,Diplomado,Denmark,3.5,Facebook,No,8.3,8,Em relacionamento,2,4
+372,373,19,Feminino,Graduação,Ireland,4.4,Instagram,Yes,7.5,7,Solteiro,3,6
+373,374,21,Masculino,Diplomado,India,6.3,WhatsApp,Yes,6.0,5,Em relacionamento,4,8
+374,375,20,Feminino,Graduação,Switzerland,3.4,Instagram,No,8.4,8,Solteiro,2,4
+375,376,22,Masculino,Diplomado,Turkey,5.0,TikTok,Yes,7.2,6,Solteiro,3,7
+376,377,19,Feminino,Graduação,USA,7.3,Instagram,Yes,5.0,5,Em relacionamento,4,9
+377,378,21,Masculino,Diplomado,Mexico,6.1,WhatsApp,Yes,6.1,6,Solteiro,3,7
+378,379,20,Feminino,Graduação,France,4.0,Instagram,No,8.0,7,Em relacionamento,2,5
+379,380,22,Masculino,Diplomado,Canada,4.8,TikTok,Yes,7.4,6,Solteiro,3,7
+380,381,19,Feminino,Graduação,Spain,4.6,Instagram,Yes,7.3,6,Solteiro,3,7
+381,382,21,Masculino,Diplomado,Denmark,3.4,Facebook,No,8.4,8,Em relacionamento,2,4
+382,383,20,Feminino,Graduação,Ireland,4.3,TikTok,Yes,7.6,7,Solteiro,3,6
+383,384,22,Masculino,Diplomado,India,6.4,WhatsApp,Yes,5.9,5,Em relacionamento,4,8
+384,385,19,Feminino,Graduação,Switzerland,3.3,Instagram,No,8.5,8,Solteiro,2,4
+385,386,21,Masculino,Diplomado,Turkey,4.9,Instagram,Yes,7.3,6,Solteiro,3,7
+386,387,20,Feminino,Graduação,USA,7.4,TikTok,Yes,4.9,5,Em relacionamento,4,9
+387,388,22,Masculino,Diplomado,Mexico,6.2,WhatsApp,Yes,6.0,6,Solteiro,3,7
+388,389,19,Feminino,Graduação,France,3.9,Instagram,No,8.1,7,Em relacionamento,2,5
+389,390,21,Masculino,Diplomado,Canada,4.7,Instagram,Yes,7.5,6,Solteiro,3,7
+390,391,20,Feminino,Graduação,Spain,4.5,TikTok,Yes,7.4,6,Solteiro,3,7
+391,392,22,Masculino,Diplomado,Denmark,3.3,Facebook,No,8.5,8,Em relacionamento,2,4
+392,393,19,Feminino,Graduação,Ireland,4.2,Instagram,Yes,7.7,7,Solteiro,3,6
+393,394,21,Masculino,Diplomado,India,6.5,WhatsApp,Yes,5.8,5,Em relacionamento,4,8
+394,395,20,Feminino,Graduação,Switzerland,3.2,Instagram,No,8.6,8,Solteiro,2,4
+395,396,22,Masculino,Diplomado,Turkey,4.8,TikTok,Yes,7.4,6,Solteiro,3,7
+396,397,19,Feminino,Graduação,USA,7.5,Instagram,Yes,4.8,5,Em relacionamento,4,9
+397,398,21,Masculino,Diplomado,Mexico,6.3,WhatsApp,Yes,5.9,6,Solteiro,3,7
+398,399,20,Feminino,Graduação,France,3.8,Instagram,No,8.2,7,Em relacionamento,2,5
+399,400,22,Masculino,Diplomado,Canada,4.6,TikTok,Yes,7.6,6,Solteiro,3,7
+400,401,19,Feminino,Graduação,Spain,4.4,Instagram,Yes,7.5,6,Solteiro,3,7
+401,402,21,Masculino,Diplomado,Denmark,3.2,Facebook,No,8.6,8,Em relacionamento,2,4
+402,403,20,Feminino,Graduação,Ireland,4.1,TikTok,Yes,7.8,7,Solteiro,3,6
+403,404,22,Masculino,Diplomado,India,6.6,WhatsApp,Yes,5.7,5,Em relacionamento,4,8
+404,405,19,Feminino,Graduação,Switzerland,3.1,Instagram,No,8.7,8,Solteiro,2,4
+405,406,21,Masculino,Diplomado,Turkey,4.7,Instagram,Yes,7.5,6,Solteiro,3,7
+406,407,20,Feminino,Graduação,USA,7.6,TikTok,Yes,4.7,5,Em relacionamento,4,9
+407,408,22,Masculino,Diplomado,Mexico,6.4,WhatsApp,Yes,5.8,6,Solteiro,3,7
+408,409,19,Feminino,Graduação,France,3.7,Instagram,No,8.3,7,Em relacionamento,2,5
+409,410,21,Masculino,Diplomado,Canada,4.5,Instagram,Yes,7.7,6,Solteiro,3,7
+410,411,20,Feminino,Graduação,Spain,4.3,TikTok,Yes,7.6,6,Solteiro,3,7
+411,412,22,Masculino,Diplomado,Denmark,3.1,Facebook,No,8.7,8,Em relacionamento,2,4
+412,413,19,Feminino,Graduação,Ireland,4.0,Instagram,Yes,7.9,7,Solteiro,3,6
+413,414,21,Masculino,Diplomado,India,6.7,WhatsApp,Yes,5.6,5,Em relacionamento,4,8
+414,415,20,Feminino,Graduação,Switzerland,3.0,Instagram,No,8.8,8,Solteiro,2,4
+415,416,22,Masculino,Diplomado,Turkey,4.6,TikTok,Yes,7.6,6,Solteiro,3,7
+416,417,19,Feminino,Graduação,USA,7.7,Instagram,Yes,4.6,5,Em relacionamento,4,9
+417,418,21,Masculino,Diplomado,Mexico,6.5,WhatsApp,Yes,5.7,6,Solteiro,3,7
+418,419,20,Feminino,Graduação,France,3.6,Instagram,No,8.4,7,Em relacionamento,2,5
+419,420,22,Masculino,Diplomado,Canada,4.4,TikTok,Yes,7.8,6,Solteiro,3,7
+420,421,19,Feminino,Graduação,Spain,4.2,Instagram,Yes,7.7,6,Solteiro,3,7
+421,422,21,Masculino,Diplomado,Denmark,3.0,Facebook,No,8.8,8,Em relacionamento,2,4
+422,423,20,Feminino,Graduação,Ireland,3.9,TikTok,Yes,8.0,7,Solteiro,3,6
+423,424,22,Masculino,Diplomado,India,6.8,WhatsApp,Yes,5.5,5,Em relacionamento,4,8
+424,425,19,Feminino,Graduação,Switzerland,2.9,Instagram,No,8.9,8,Solteiro,2,4
+425,426,21,Masculino,Diplomado,Turkey,4.5,Instagram,Yes,7.7,6,Solteiro,3,7
+426,427,20,Feminino,Graduação,USA,7.8,TikTok,Yes,4.5,5,Em relacionamento,4,9
+427,428,22,Masculino,Diplomado,Mexico,6.6,WhatsApp,Yes,5.6,6,Solteiro,3,7
+428,429,19,Feminino,Graduação,France,3.5,Instagram,No,8.5,7,Em relacionamento,2,5
+429,430,21,Masculino,Diplomado,Canada,4.3,Instagram,Yes,7.9,6,Solteiro,3,7
+430,431,20,Feminino,Graduação,Spain,4.1,TikTok,Yes,7.8,6,Solteiro,3,7
+431,432,22,Masculino,Diplomado,Denmark,2.9,Facebook,No,8.9,8,Em relacionamento,2,4
+432,433,19,Feminino,Graduação,Ireland,3.8,Instagram,Yes,8.1,7,Solteiro,3,6
+433,434,21,Masculino,Diplomado,India,6.9,WhatsApp,Yes,5.4,5,Em relacionamento,4,8
+434,435,20,Feminino,Graduação,Switzerland,2.8,Instagram,No,9.0,8,Solteiro,2,4
+435,436,22,Masculino,Diplomado,Turkey,4.4,TikTok,Yes,7.8,6,Solteiro,3,7
+436,437,19,Feminino,Graduação,USA,7.9,Instagram,Yes,4.4,5,Em relacionamento,4,9
+437,438,21,Masculino,Diplomado,Mexico,6.7,WhatsApp,Yes,5.5,6,Solteiro,3,7
+438,439,20,Feminino,Graduação,France,3.4,Instagram,No,8.6,7,Em relacionamento,2,5
+439,440,22,Masculino,Diplomado,Canada,4.2,TikTok,Yes,8.0,6,Solteiro,3,7
+440,441,19,Feminino,Graduação,Spain,4.0,Instagram,Yes,7.9,6,Solteiro,3,7
+441,442,21,Masculino,Diplomado,Denmark,2.8,Facebook,No,9.0,8,Em relacionamento,2,4
+442,443,20,Feminino,Graduação,Ireland,3.7,TikTok,Yes,8.2,7,Solteiro,3,6
+443,444,22,Masculino,Diplomado,India,7.0,WhatsApp,Yes,5.3,5,Em relacionamento,4,8
+444,445,19,Feminino,Graduação,Switzerland,2.7,Instagram,No,9.1,8,Solteiro,2,4
+445,446,21,Masculino,Diplomado,Turkey,4.3,Instagram,Yes,7.9,6,Solteiro,3,7
+446,447,20,Feminino,Graduação,USA,8.0,TikTok,Yes,4.3,5,Em relacionamento,4,9
+447,448,22,Masculino,Diplomado,Mexico,6.8,WhatsApp,Yes,5.4,6,Solteiro,3,7
+448,449,19,Feminino,Graduação,France,3.3,Instagram,No,8.7,7,Em relacionamento,2,5
+449,450,21,Masculino,Diplomado,Canada,4.1,Instagram,Yes,8.1,6,Solteiro,3,7
+450,451,20,Feminino,Graduação,Spain,3.9,TikTok,Yes,8.0,6,Solteiro,3,7
+451,452,22,Masculino,Diplomado,Denmark,2.7,Facebook,No,9.1,8,Em relacionamento,2,4
+452,453,19,Feminino,Graduação,Ireland,3.6,Instagram,Yes,8.3,7,Solteiro,3,6
+453,454,21,Masculino,Diplomado,India,7.1,WhatsApp,Yes,5.2,5,Em relacionamento,4,8
+454,455,20,Feminino,Graduação,Switzerland,2.6,Instagram,No,9.2,8,Solteiro,2,4
+455,456,22,Masculino,Diplomado,Turkey,4.2,TikTok,Yes,8.0,6,Solteiro,3,7
+456,457,19,Feminino,Graduação,USA,8.1,Instagram,Yes,4.2,5,Em relacionamento,4,9
+457,458,21,Masculino,Diplomado,Mexico,6.9,WhatsApp,Yes,5.3,6,Solteiro,3,7
+458,459,20,Feminino,Graduação,France,3.2,Instagram,No,8.8,7,Em relacionamento,2,5
+459,460,22,Masculino,Diplomado,Canada,4.0,TikTok,Yes,8.2,6,Solteiro,3,7
+460,461,19,Feminino,Graduação,Spain,3.8,Instagram,Yes,8.1,6,Solteiro,3,7
+461,462,21,Masculino,Diplomado,Denmark,2.6,Facebook,No,9.2,8,Em relacionamento,2,4
+462,463,20,Feminino,Graduação,Ireland,3.5,TikTok,Yes,8.4,7,Solteiro,3,6
+463,464,22,Masculino,Diplomado,India,7.2,WhatsApp,Yes,5.1,5,Em relacionamento,4,8
+464,465,19,Feminino,Graduação,Switzerland,2.5,Instagram,No,9.3,8,Solteiro,2,4
+465,466,21,Masculino,Diplomado,Turkey,4.1,Instagram,Yes,8.1,6,Solteiro,3,7
+466,467,20,Feminino,Graduação,USA,8.2,TikTok,Yes,4.1,5,Em relacionamento,4,9
+467,468,22,Masculino,Diplomado,Mexico,7.0,WhatsApp,Yes,5.2,6,Solteiro,3,7
+468,469,19,Feminino,Graduação,France,3.1,Instagram,No,8.9,7,Em relacionamento,2,5
+469,470,21,Masculino,Diplomado,Canada,3.9,Instagram,Yes,8.3,6,Solteiro,3,7
+470,471,20,Feminino,Graduação,Spain,3.7,TikTok,Yes,8.2,6,Solteiro,3,7
+471,472,22,Masculino,Diplomado,Denmark,2.5,Facebook,No,9.3,8,Em relacionamento,2,4
+472,473,19,Feminino,Graduação,Ireland,3.4,Instagram,Yes,8.5,7,Solteiro,3,6
+473,474,21,Masculino,Diplomado,India,7.3,WhatsApp,Yes,5.0,5,Em relacionamento,4,8
+474,475,20,Feminino,Graduação,Switzerland,2.4,Instagram,No,9.4,8,Solteiro,2,4
+475,476,22,Masculino,Diplomado,Turkey,4.0,TikTok,Yes,8.2,6,Solteiro,3,7
+476,477,19,Feminino,Graduação,USA,8.3,Instagram,Yes,4.0,5,Em relacionamento,4,9
+477,478,21,Masculino,Diplomado,Mexico,7.1,WhatsApp,Yes,5.1,6,Solteiro,3,7
+478,479,20,Feminino,Graduação,France,3.0,Instagram,No,9.0,7,Em relacionamento,2,5
+479,480,22,Masculino,Diplomado,Canada,3.8,TikTok,Yes,8.4,6,Solteiro,3,7
+480,481,19,Feminino,Graduação,Spain,3.6,Instagram,Yes,8.3,6,Solteiro,3,7
+481,482,21,Masculino,Diplomado,Denmark,2.4,Facebook,No,9.4,8,Em relacionamento,2,4
+482,483,20,Feminino,Graduação,Ireland,3.3,TikTok,Yes,8.6,7,Solteiro,3,6
+483,484,22,Masculino,Diplomado,India,7.4,WhatsApp,Yes,4.9,5,Em relacionamento,4,8
+484,485,19,Feminino,Graduação,Switzerland,2.3,Instagram,No,9.5,8,Solteiro,2,4
+485,486,21,Masculino,Diplomado,Turkey,3.9,Instagram,Yes,8.3,6,Solteiro,3,7
+486,487,20,Feminino,Graduação,USA,8.4,TikTok,Yes,3.9,5,Em relacionamento,4,9
+487,488,22,Masculino,Diplomado,Mexico,7.2,WhatsApp,Yes,5.0,6,Solteiro,3,7
+488,489,19,Feminino,Graduação,France,2.9,Instagram,No,9.1,7,Em relacionamento,2,5
+489,490,21,Masculino,Diplomado,Canada,3.7,Instagram,Yes,8.5,6,Solteiro,3,7
+490,491,20,Feminino,Graduação,Spain,3.5,TikTok,Yes,8.4,6,Solteiro,3,7
+491,492,22,Masculino,Diplomado,Denmark,2.3,Facebook,No,9.5,8,Em relacionamento,2,4
+492,493,19,Feminino,Graduação,Ireland,3.2,Instagram,Yes,8.7,7,Solteiro,3,6
+493,494,21,Masculino,Diplomado,India,7.5,WhatsApp,Yes,4.8,5,Em relacionamento,4,8
+494,495,20,Feminino,Graduação,Switzerland,2.2,Instagram,No,9.6,8,Solteiro,2,4
+495,496,22,Masculino,Diplomado,Turkey,3.8,TikTok,Yes,8.4,6,Solteiro,3,7
+496,497,19,Feminino,Graduação,USA,8.5,Instagram,Yes,3.8,5,Em relacionamento,4,9
+497,498,21,Masculino,Diplomado,Mexico,7.3,WhatsApp,Yes,4.9,6,Solteiro,3,7
+498,499,20,Feminino,Graduação,France,2.8,Instagram,No,9.2,7,Em relacionamento,2,5
+499,500,22,Masculino,Diplomado,Canada,3.6,TikTok,Yes,8.6,6,Solteiro,3,7
+500,501,19,Feminino,Graduação,Brazil,6.2,WhatsApp,Yes,6.3,6,Solteiro,3,7
+501,502,21,Masculino,Diplomado,China,4.5,WeChat,No,7.8,7,Em relacionamento,2,5
+502,503,20,Feminino,Graduação,Netherlands,3.8,Instagram,No,8.2,8,Solteiro,2,4
+503,504,22,Masculino,Diplomado,New Zealand,4.7,Instagram,Yes,7.5,7,Em relacionamento,3,6
+504,505,19,Feminino,Graduação,Singapore,5.1,TikTok,Yes,7.0,6,Solteiro,3,7
+505,506,21,Masculino,Diplomado,Malaysia,5.5,WhatsApp,Yes,6.8,6,Solteiro,3,7
+506,507,20,Feminino,Graduação,UAE,6.5,Instagram,Yes,6.5,5,Em relacionamento,4,8
+507,508,22,Masculino,Diplomado,Poland,4.2,Facebook,No,7.9,7,Solteiro,2,5
+508,509,19,Feminino,Graduação,India,6.8,WhatsApp,Yes,6.0,5,Em relacionamento,4,8
+509,510,21,Masculino,Diplomado,Canada,4.8,Instagram,Yes,7.4,7,Solteiro,3,6
+510,511,20,Feminino,Graduação,Brazil,6.1,Instagram,Yes,6.4,6,Solteiro,3,7
+511,512,22,Masculino,Diplomado,China,4.4,WeChat,No,7.9,7,Em relacionamento,2,5
+512,513,19,Feminino,Graduação,Netherlands,3.7,TikTok,No,8.3,8,Solteiro,2,4
+513,514,21,Masculino,Diplomado,New Zealand,4.6,Instagram,Yes,7.6,7,Em relacionamento,3,6
+514,515,20,Feminino,Graduação,Singapore,5.2,TikTok,Yes,6.9,6,Solteiro,3,7
+515,516,22,Masculino,Diplomado,Malaysia,5.6,WhatsApp,Yes,6.7,6,Solteiro,3,7
+516,517,19,Feminino,Graduação,UAE,6.6,Instagram,Yes,6.4,5,Em relacionamento,4,8
+517,518,21,Masculino,Diplomado,Poland,4.1,Facebook,No,8.0,7,Solteiro,2,5
+518,519,20,Feminino,Graduação,India,6.9,WhatsApp,Yes,5.9,5,Em relacionamento,4,8
+519,520,22,Masculino,Diplomado,Canada,4.7,TikTok,Yes,7.5,7,Solteiro,3,6
+520,521,19,Feminino,Graduação,Brazil,6.0,WhatsApp,Yes,6.5,6,Solteiro,3,7
+521,522,21,Masculino,Diplomado,China,4.3,WeChat,No,8.0,7,Em relacionamento,2,5
+522,523,20,Feminino,Graduação,Netherlands,3.6,Instagram,No,8.4,8,Solteiro,2,4
+523,524,22,Masculino,Diplomado,New Zealand,4.5,Facebook,Yes,7.7,7,Em relacionamento,3,6
+524,525,19,Feminino,Graduação,Singapore,5.3,TikTok,Yes,6.8,6,Solteiro,3,7
+525,526,21,Masculino,Diplomado,Malaysia,5.7,WhatsApp,Yes,6.6,6,Solteiro,3,7
+526,527,20,Feminino,Graduação,UAE,6.7,Instagram,Yes,6.3,5,Em relacionamento,4,8
+527,528,22,Masculino,Diplomado,Poland,4.0,Facebook,No,8.1,7,Solteiro,2,5
+528,529,19,Feminino,Graduação,India,7.0,WhatsApp,Yes,5.8,5,Em relacionamento,4,8
+529,530,21,Masculino,Diplomado,Canada,4.6,Instagram,Yes,7.6,7,Solteiro,3,6
+530,531,20,Feminino,Graduação,Brazil,5.9,TikTok,Yes,6.6,6,Solteiro,3,7
+531,532,22,Masculino,Diplomado,China,4.2,WeChat,No,8.1,7,Em relacionamento,2,5
+532,533,19,Feminino,Graduação,Netherlands,3.5,Instagram,No,8.5,8,Solteiro,2,4
+533,534,21,Masculino,Diplomado,New Zealand,4.4,Facebook,Yes,7.8,7,Em relacionamento,3,6
+534,535,20,Feminino,Graduação,Singapore,5.4,TikTok,Yes,6.7,6,Solteiro,3,7
+535,536,22,Masculino,Diplomado,Malaysia,5.8,WhatsApp,Yes,6.5,6,Solteiro,3,7
+536,537,19,Feminino,Graduação,UAE,6.8,Instagram,Yes,6.2,5,Em relacionamento,4,8
+537,538,21,Masculino,Diplomado,Poland,3.9,Facebook,No,8.2,7,Solteiro,2,5
+538,539,20,Feminino,Graduação,India,7.1,WhatsApp,Yes,5.7,5,Em relacionamento,4,8
+539,540,22,Masculino,Diplomado,Canada,4.5,TikTok,Yes,7.7,7,Solteiro,3,6
+540,541,19,Feminino,Graduação,Brazil,5.8,WhatsApp,Yes,6.7,6,Solteiro,3,7
+541,542,21,Masculino,Diplomado,China,4.1,WeChat,No,8.2,7,Em relacionamento,2,5
+542,543,20,Feminino,Graduação,Netherlands,3.4,Instagram,No,8.6,8,Solteiro,2,4
+543,544,22,Masculino,Diplomado,New Zealand,4.3,Instagram,Yes,7.9,7,Em relacionamento,3,6
+544,545,19,Feminino,Graduação,Singapore,5.5,TikTok,Yes,6.6,6,Solteiro,3,7
+545,546,21,Masculino,Diplomado,Malaysia,5.9,WhatsApp,Yes,6.4,6,Solteiro,3,7
+546,547,20,Feminino,Graduação,UAE,6.9,Instagram,Yes,6.1,5,Em relacionamento,4,8
+547,548,22,Masculino,Diplomado,Poland,3.8,Facebook,No,8.3,7,Solteiro,2,5
+548,549,19,Feminino,Graduação,India,7.2,WhatsApp,Yes,5.6,5,Em relacionamento,4,8
+549,550,21,Masculino,Diplomado,Canada,4.4,Instagram,Yes,7.8,7,Solteiro,3,6
+550,551,20,Feminino,Graduação,Brazil,5.7,TikTok,Yes,6.8,6,Solteiro,3,7
+551,552,22,Masculino,Diplomado,China,4.0,WeChat,No,8.3,7,Em relacionamento,2,5
+552,553,19,Feminino,Graduação,Netherlands,3.3,Instagram,No,8.7,8,Solteiro,2,4
+553,554,21,Masculino,Diplomado,New Zealand,4.2,Facebook,Yes,8.0,7,Em relacionamento,3,6
+554,555,20,Feminino,Graduação,Singapore,5.6,TikTok,Yes,6.5,6,Solteiro,3,7
+555,556,22,Masculino,Diplomado,Malaysia,6.0,WhatsApp,Yes,6.3,6,Solteiro,3,7
+556,557,19,Feminino,Graduação,UAE,7.0,Instagram,Yes,6.0,5,Em relacionamento,4,8
+557,558,21,Masculino,Diplomado,Poland,3.7,Facebook,No,8.4,7,Solteiro,2,5
+558,559,20,Feminino,Graduação,India,7.3,WhatsApp,Yes,5.5,5,Em relacionamento,4,8
+559,560,22,Masculino,Diplomado,Canada,4.3,TikTok,Yes,7.9,7,Solteiro,3,6
+560,561,19,Feminino,Graduação,Brazil,5.6,WhatsApp,Yes,6.9,6,Solteiro,3,7
+561,562,21,Masculino,Diplomado,China,3.9,WeChat,No,8.4,7,Em relacionamento,2,5
+562,563,20,Feminino,Graduação,Netherlands,3.2,Instagram,No,8.8,8,Solteiro,2,4
+563,564,22,Masculino,Diplomado,New Zealand,4.1,Instagram,Yes,8.1,7,Em relacionamento,3,6
+564,565,19,Feminino,Graduação,Singapore,5.7,TikTok,Yes,6.4,6,Solteiro,3,7
+565,566,21,Masculino,Diplomado,Malaysia,6.1,WhatsApp,Yes,6.2,6,Solteiro,3,7
+566,567,20,Feminino,Graduação,UAE,7.1,Instagram,Yes,5.9,5,Em relacionamento,4,8
+567,568,22,Masculino,Diplomado,Poland,3.6,Facebook,No,8.5,7,Solteiro,2,5
+568,569,19,Feminino,Graduação,India,7.4,WhatsApp,Yes,5.4,5,Em relacionamento,4,8
+569,570,21,Masculino,Diplomado,Canada,4.2,Instagram,Yes,8.0,7,Solteiro,3,6
+570,571,20,Feminino,Graduação,Spain,6.1,Instagram,Yes,7.2,5,Solteiro,4,7
+571,572,23,Masculino,Diplomado,Denmark,3.8,Twitter,No,7.8,8,Em relacionamento,2,4
+572,573,19,Feminino,Graduação,Ireland,5.5,TikTok,Yes,6.8,6,Solteiro,4,8
+573,574,22,Masculino,Diplomado,India,7.2,Facebook,Yes,5.9,4,Solteiro,5,9
+574,575,21,Feminino,Graduação,Switzerland,4.2,Instagram,No,7.5,7,Em relacionamento,2,5
+575,576,24,Masculino,Diplomado,Turkey,6.8,TikTok,Yes,6.2,5,Solteiro,4,8
+576,577,20,Feminino,Graduação,USA,5.9,Instagram,Yes,6.7,6,Em relacionamento,3,7
+577,578,22,Masculino,Diplomado,Mexico,6.5,Facebook,Yes,6.1,5,Solteiro,4,8
+578,579,19,Feminino,Graduação,France,4.7,Twitter,No,7.4,7,Solteiro,2,5
+579,580,23,Masculino,Diplomado,Canada,5.2,Instagram,Yes,7.0,6,Em relacionamento,3,6
+580,581,21,Feminino,Graduação,UK,6.3,TikTok,Yes,6.4,5,Solteiro,4,8
+581,582,24,Masculino,Diplomado,Italy,4.9,Facebook,No,7.3,7,Em relacionamento,2,5
+582,583,20,Feminino,Graduação,Russia,6.7,Instagram,Yes,6.0,5,Solteiro,4,8
+583,584,22,Masculino,Diplomado,China,5.8,WeChat,Yes,6.5,6,Em relacionamento,3,7
+584,585,19,Feminino,Graduação,Japan,4.5,Twitter,No,7.6,8,Solteiro,2,4
+585,586,23,Masculino,Diplomado,Poland,6.4,Facebook,Yes,6.3,5,Solteiro,4,8
+586,587,21,Feminino,Graduação,Finland,4.1,Instagram,No,7.7,7,Em relacionamento,2,5
+587,588,24,Masculino,Diplomado,Spain,6.6,TikTok,Yes,6.2,5,Solteiro,4,8
+588,589,20,Feminino,Graduação,Denmark,4.4,Instagram,No,7.4,7,Em relacionamento,2,5
+589,590,22,Masculino,Diplomado,Ireland,5.7,Twitter,Yes,6.8,6,Solteiro,3,7
+590,591,19,Feminino,Graduação,India,7.0,Instagram,Yes,5.8,4,Solteiro,5,9
+591,592,23,Masculino,Diplomado,Switzerland,4.3,Facebook,No,7.5,7,Em relacionamento,2,5
+592,593,21,Feminino,Graduação,Turkey,6.9,TikTok,Yes,6.1,5,Solteiro,4,8
+593,594,24,Masculino,Diplomado,USA,5.6,Instagram,Yes,6.9,6,Em relacionamento,3,7
+594,595,20,Feminino,Graduação,Mexico,6.2,Facebook,Yes,6.3,5,Solteiro,4,8
+595,596,21,Masculino,Graduação,France,5.8,Instagram,Yes,6.7,6,Solteiro,3,7
+596,597,23,Feminino,Diplomado,Canada,4.9,TikTok,No,7.3,7,Em relacionamento,2,5
+597,598,20,Masculino,Graduação,UK,6.4,Facebook,Yes,6.2,5,Solteiro,4,8
+598,599,22,Feminino,Diplomado,Italy,5.1,Twitter,No,7.1,7,Em relacionamento,2,5
+599,600,19,Masculino,Graduação,Russia,6.7,Instagram,Yes,6.0,4,Solteiro,4,8
+600,601,24,Feminino,Diplomado,China,5.5,WeChat,Yes,6.8,6,Em relacionamento,3,7
+601,602,21,Masculino,Graduação,Japan,4.3,Twitter,No,7.6,8,Solteiro,2,4
+602,603,23,Feminino,Diplomado,Poland,6.2,Instagram,Yes,6.4,5,Solteiro,4,8
+603,604,20,Masculino,Graduação,Finland,4.5,Facebook,No,7.4,7,Em relacionamento,2,5
+604,605,22,Feminino,Diplomado,Spain,6.3,TikTok,Yes,6.3,5,Solteiro,4,8
+605,606,19,Masculino,Graduação,Denmark,4.7,Instagram,No,7.2,7,Em relacionamento,2,5
+606,607,24,Feminino,Diplomado,Ireland,5.9,Twitter,Yes,6.6,6,Solteiro,3,7
+607,608,21,Masculino,Graduação,India,7.1,Facebook,Yes,5.7,4,Solteiro,5,9
+608,609,23,Feminino,Diplomado,Switzerland,4.4,Instagram,No,7.4,7,Em relacionamento,2,5
+609,610,20,Masculino,Graduação,Turkey,6.6,TikTok,Yes,6.2,5,Solteiro,4,8
+610,611,22,Feminino,Diplomado,USA,5.4,Instagram,Yes,6.9,6,Em relacionamento,3,7
+611,612,19,Masculino,Graduação,Mexico,6.5,Facebook,Yes,6.1,5,Solteiro,4,8
+612,613,24,Feminino,Diplomado,France,4.8,Twitter,No,7.3,7,Em relacionamento,2,5
+613,614,21,Masculino,Graduação,Canada,5.7,Instagram,Yes,6.7,6,Solteiro,3,7
+614,615,23,Feminino,Diplomado,UK,6.1,TikTok,Yes,6.4,5,Solteiro,4,8
+615,616,20,Masculino,Graduação,Italy,4.6,Facebook,No,7.2,7,Em relacionamento,2,5
+616,617,22,Feminino,Diplomado,Russia,6.8,Instagram,Yes,5.9,4,Solteiro,5,9
+617,618,19,Masculino,Graduação,China,5.6,WeChat,Yes,6.8,6,Em relacionamento,3,7
+618,619,24,Feminino,Diplomado,Japan,4.2,Twitter,No,7.5,8,Solteiro,2,4
+619,620,21,Masculino,Graduação,Poland,6.3,TikTok,Yes,6.3,5,Solteiro,4,8
+620,621,23,Feminino,Diplomado,Finland,4.4,Instagram,No,7.4,7,Em relacionamento,2,5
+621,622,20,Masculino,Graduação,Spain,6.5,Facebook,Yes,6.2,5,Solteiro,4,8
+622,623,22,Feminino,Diplomado,Denmark,4.6,Twitter,No,7.3,7,Em relacionamento,2,5
+623,624,19,Masculino,Graduação,Ireland,5.8,Instagram,Yes,6.6,6,Solteiro,3,7
+624,625,24,Feminino,Diplomado,India,7.0,TikTok,Yes,5.8,4,Solteiro,5,9
+625,626,21,Masculino,Graduação,Switzerland,4.5,Facebook,No,7.3,7,Em relacionamento,2,5
+626,627,23,Feminino,Diplomado,Turkey,6.7,Instagram,Yes,6.1,5,Solteiro,4,8
+627,628,20,Masculino,Graduação,USA,5.5,Twitter,Yes,6.8,6,Em relacionamento,3,7
+628,629,22,Feminino,Diplomado,Mexico,6.4,Facebook,Yes,6.2,5,Solteiro,4,8
+629,630,19,Masculino,Graduação,France,4.7,Instagram,No,7.2,7,Em relacionamento,2,5
+630,631,24,Feminino,Diplomado,Canada,5.6,TikTok,Yes,6.7,6,Solteiro,3,7
+631,632,21,Masculino,Graduação,UK,6.2,Facebook,Yes,6.3,5,Solteiro,4,8
+632,633,23,Feminino,Diplomado,Italy,4.8,Twitter,No,7.1,7,Em relacionamento,2,5
+633,634,20,Masculino,Graduação,Russia,6.9,Instagram,Yes,5.9,4,Solteiro,5,9
+634,635,22,Feminino,Diplomado,China,5.7,WeChat,Yes,6.7,6,Em relacionamento,3,7
+635,636,19,Masculino,Graduação,Japan,4.4,Twitter,No,7.4,8,Solteiro,2,4
+636,637,24,Feminino,Diplomado,Poland,6.1,TikTok,Yes,6.4,5,Solteiro,4,8
+637,638,21,Masculino,Graduação,Finland,4.3,Instagram,No,7.5,7,Em relacionamento,2,5
+638,639,23,Feminino,Diplomado,Spain,6.4,Facebook,Yes,6.2,5,Solteiro,4,8
+639,640,20,Masculino,Graduação,Denmark,4.5,Twitter,No,7.3,7,Em relacionamento,2,5
+640,641,22,Feminino,Diplomado,Ireland,5.9,Instagram,Yes,6.5,6,Solteiro,3,7
+641,642,19,Masculino,Graduação,India,7.2,TikTok,Yes,5.7,4,Solteiro,5,9
+642,643,24,Feminino,Diplomado,Switzerland,4.6,Facebook,No,7.2,7,Em relacionamento,2,5
+643,644,21,Masculino,Graduação,Turkey,6.8,Instagram,Yes,6.0,5,Solteiro,4,8
+644,645,23,Feminino,Diplomado,USA,5.3,Twitter,Yes,6.8,6,Em relacionamento,3,7
+645,646,22,Masculino,Diplomado,Mexico,6.3,Facebook,Yes,6.2,5,Solteiro,4,8
+646,647,20,Feminino,Graduação,France,4.8,Instagram,No,7.1,7,Em relacionamento,2,5
+647,648,23,Masculino,Diplomado,Canada,5.7,TikTok,Yes,6.6,6,Solteiro,3,7
+648,649,21,Feminino,Graduação,UK,6.2,Twitter,Yes,6.3,5,Solteiro,4,8
+649,650,24,Masculino,Diplomado,Italy,4.7,Facebook,No,7.2,7,Em relacionamento,2,5
+650,651,19,Feminino,Graduação,Russia,6.8,Instagram,Yes,5.9,4,Solteiro,5,9
+651,652,22,Masculino,Diplomado,China,5.6,WeChat,Yes,6.7,6,Em relacionamento,3,7
+652,653,20,Feminino,Graduação,Japan,4.3,Twitter,No,7.5,8,Solteiro,2,4
+653,654,23,Masculino,Diplomado,Poland,6.2,TikTok,Yes,6.3,5,Solteiro,4,8
+654,655,21,Feminino,Graduação,Finland,4.4,Instagram,No,7.4,7,Em relacionamento,2,5
+655,656,24,Masculino,Diplomado,Spain,6.5,Facebook,Yes,6.1,5,Solteiro,4,8
+656,657,19,Feminino,Graduação,Denmark,4.6,Twitter,No,7.3,7,Em relacionamento,2,5
+657,658,22,Masculino,Diplomado,Ireland,5.8,Instagram,Yes,6.6,6,Solteiro,3,7
+658,659,20,Feminino,Graduação,India,7.1,TikTok,Yes,5.8,4,Solteiro,5,9
+659,660,23,Masculino,Diplomado,Switzerland,4.5,Facebook,No,7.3,7,Em relacionamento,2,5
+660,661,21,Feminino,Graduação,Turkey,6.7,Instagram,Yes,6.0,5,Solteiro,4,8
+661,662,24,Masculino,Diplomado,USA,5.4,Twitter,Yes,6.8,6,Em relacionamento,3,7
+662,663,19,Feminino,Graduação,Mexico,6.4,TikTok,Yes,6.2,5,Solteiro,4,8
+663,664,22,Masculino,Diplomado,France,4.7,Facebook,No,7.2,7,Em relacionamento,2,5
+664,665,20,Feminino,Graduação,Canada,5.6,Instagram,Yes,6.7,6,Solteiro,3,7
+665,666,23,Masculino,Diplomado,UK,6.3,Twitter,Yes,6.2,5,Solteiro,4,8
+666,667,21,Feminino,Graduação,Italy,4.8,TikTok,No,7.1,7,Em relacionamento,2,5
+667,668,24,Masculino,Diplomado,Russia,6.9,Instagram,Yes,5.9,4,Solteiro,5,9
+668,669,19,Feminino,Graduação,China,5.7,WeChat,Yes,6.7,6,Em relacionamento,3,7
+669,670,22,Masculino,Diplomado,Japan,4.4,Twitter,No,7.4,8,Solteiro,2,4
+670,671,20,Feminino,Graduação,Poland,6.1,Facebook,Yes,6.4,5,Solteiro,4,8
+671,672,23,Masculino,Diplomado,Finland,4.3,Instagram,No,7.5,7,Em relacionamento,2,5
+672,673,21,Feminino,Graduação,Spain,6.4,TikTok,Yes,6.2,5,Solteiro,4,8
+673,674,24,Masculino,Diplomado,Denmark,4.5,Twitter,No,7.3,7,Em relacionamento,2,5
+674,675,19,Feminino,Graduação,Ireland,5.9,Instagram,Yes,6.5,6,Solteiro,3,7
+675,676,22,Masculino,Diplomado,India,7.2,Facebook,Yes,5.7,4,Solteiro,5,9
+676,677,20,Feminino,Graduação,Switzerland,4.6,TikTok,No,7.2,7,Em relacionamento,2,5
+677,678,23,Masculino,Diplomado,Turkey,6.8,Instagram,Yes,6.0,5,Solteiro,4,8
+678,679,21,Feminino,Graduação,USA,5.3,Twitter,Yes,6.8,6,Em relacionamento,3,7
+679,680,24,Masculino,Diplomado,Mexico,6.2,Facebook,Yes,6.3,5,Solteiro,4,8
+680,681,19,Feminino,Graduação,France,4.7,Instagram,No,7.2,7,Em relacionamento,2,5
+681,682,22,Masculino,Diplomado,Canada,5.8,TikTok,Yes,6.6,6,Solteiro,3,7
+682,683,20,Feminino,Graduação,UK,6.1,Twitter,Yes,6.4,5,Solteiro,4,8
+683,684,23,Masculino,Diplomado,Italy,4.8,Facebook,No,7.1,7,Em relacionamento,2,5
+684,685,21,Feminino,Graduação,Russia,6.7,Instagram,Yes,6.0,4,Solteiro,5,9
+685,686,24,Masculino,Diplomado,China,5.5,WeChat,Yes,6.8,6,Em relacionamento,3,7
+686,687,19,Feminino,Graduação,Japan,4.2,Twitter,No,7.5,8,Solteiro,2,4
+687,688,22,Masculino,Diplomado,Poland,6.3,TikTok,Yes,6.2,5,Solteiro,4,8
+688,689,20,Feminino,Graduação,Finland,4.4,Instagram,No,7.4,7,Em relacionamento,2,5
+689,690,23,Masculino,Diplomado,Spain,6.5,Facebook,Yes,6.1,5,Solteiro,4,8
+690,691,21,Feminino,Graduação,Denmark,4.6,Twitter,No,7.3,7,Em relacionamento,2,5
+691,692,24,Masculino,Diplomado,Ireland,5.9,Instagram,Yes,6.5,6,Solteiro,3,7
+692,693,19,Feminino,Graduação,India,7.0,TikTok,Yes,5.8,4,Solteiro,5,9
+693,694,22,Masculino,Diplomado,Switzerland,4.5,Facebook,No,7.3,7,Em relacionamento,2,5
+694,695,20,Feminino,Graduação,Turkey,6.6,Instagram,Yes,6.1,5,Solteiro,4,8
+695,696,23,Masculino,Diplomado,USA,5.5,Twitter,Yes,6.7,6,Em relacionamento,3,7
+696,697,21,Feminino,Graduação,Mexico,6.3,TikTok,Yes,6.2,5,Solteiro,4,8
+697,698,24,Masculino,Diplomado,France,4.8,Facebook,No,7.1,7,Em relacionamento,2,5
+698,699,19,Feminino,Graduação,Canada,5.7,Instagram,Yes,6.6,6,Solteiro,3,7
+699,700,22,Masculino,Diplomado,UK,6.2,Twitter,Yes,6.3,5,Solteiro,4,8
+700,701,20,Feminino,Graduação,Italy,4.7,TikTok,No,7.2,7,Em relacionamento,2,5
+701,702,23,Masculino,Diplomado,Russia,6.8,Instagram,Yes,5.9,4,Solteiro,5,9
+702,703,21,Feminino,Graduação,China,5.6,WeChat,Yes,6.7,6,Em relacionamento,3,7
+703,704,24,Masculino,Diplomado,Japan,4.3,Twitter,No,7.5,8,Solteiro,2,4
+704,705,19,Feminino,Graduação,Poland,6.2,Facebook,Yes,6.3,5,Solteiro,4,8

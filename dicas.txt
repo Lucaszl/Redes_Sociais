@@ -1,0 +1,64 @@
+python -m venv venv
+venv\Scripts\activate    
+
+
+pip install -r requirements.txt
+
+
+streamlit run dashbords.py
+
+caso não rode usar esse show - 
+pip show streamlit
+
+python -m streamlit run dashbords.py
+
+
+----------------------------
+# @st.cache_data
+# def load_data():
+#     df = pd.read_csv('data/students_social_media_addiction.csv', encoding='latin-1')
+#     df = df.drop('columns="Unnamed:_0', errors='ignore')
+#     df.columns = df.columns.str.strip().str.replace(" ", "_")
+#     return df
+
+# df = load_data()
+
+# @st.cache_data
+# def load_data2():
+#     df2 = pd.read_csv('data/enhanced_anxiety_dataset.csv', encoding='latin-1')
+#     df2 = df2.drop('columns="Unnamed: 0', errors='ignore')
+#     df2.columns = df2.columns.str.strip().str.replace(" ", "_")
+#     return df2
+
+# df2 = load_data2()
+
+# @st.cache_data
+# def load_data3():
+#     df3 = pd.read_csv('data/dataset_saude_mental_1500.csv', encoding='latin-1')
+#     df3 = df3.drop('columns="Unnamed: 0', errors='ignore')
+#     df3.columns = df3.columns.str.strip().str.replace(" ", "_")
+#     return df3
+# df3 = load_data3()
+----------------------------
+app.py 
+# tab1, tab2, tab3 = st.tabs([
+#     'Mídias Sociais',
+#     'Ansiedade',
+#     'Saúde Mental'
+# ])
+
+# # Tab 1 
+# with tab1:
+#     tab1_instance = Tab1(df)
+#     tab1_instance.render()
+
+# # Tab 2
+# with tab2:
+#     tab2_instance = Tab2(df2)
+#     tab2_instance.render()
+
+# # Tab 3 -?  
+# with tab3:
+#     tab3_instance = Tab3(df3)
+#     tab3_instance.render()
+--------------------------------
