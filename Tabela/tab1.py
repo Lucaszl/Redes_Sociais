@@ -1,14 +1,14 @@
 import streamlit as st
 
 
-from dashboards.grafico_conflitos import GraficoConflitosRelacionamento
-from dashboards.grafico_plataforma import GraficoPlataforma
-from dashboards.horas_por_plataforma_uso import HorasPorPlataforma
-from dashboards.grafico_genero import GraficoGeneroUso
-from dashboards.grafico_idade_horas import GraficoIdadeHoras
-from dashboards.relacao_uso_saude import RelacaoUsoSaudeMental
-from dashboards.impacto_sono_desempenho import ImpactoSonoDesempenho
-from dashboards.plataforma_pais import PlataformaPais
+from dashboards.grafico01 import GraficoConflitosRelacionamento
+from dashboards.grafico02 import GraficoPlataforma
+from dashboards.grafico03 import HorasPorPlataforma
+from dashboards.grafico04 import GraficoGeneroUso
+from dashboards.grafico05 import GraficoIdadeHoras
+from dashboards.grafico06 import RelacaoUsoSaudeMental
+from dashboards.grafico07 import ImpactoSonoDesempenho
+from dashboards.grafico08 import PlataformaPais
 
 class Tab1:
     def __init__(self, df):
