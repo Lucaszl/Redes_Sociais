@@ -18,6 +18,6 @@ class NivelEstress:
         nivel_estress.update_traces(marker=dict(color='#FF6B35', size=8, opacity=0.7))
         nivel_estress.update_layout(plot_bgcolor='rgba(0,0,0,0)',
                         paper_bgcolor='rgba(0,0,0,0)',
-                        title_x=0.3,
+                        title_x=0.2,
                         title_font_size=16)
         return nivel_estress

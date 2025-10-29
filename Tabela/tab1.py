@@ -152,9 +152,8 @@ class Tab1:
             st.plotly_chart(grafico_genero.plot(), width="stretch")
             st.markdown("""
             **Análise:**  
-            Este gráfico mostra a **distribuição do tempo médio diário de uso das redes sociais por gênero**.
-            É possível observar que o gênero **feminino apresenta maior tempo médio de uso**, com cerca de **8,5 horas por dia**, 
-            enquanto o **masculino apresenta média inferior**, demonstrando um padrão de uso mais moderado.
+                Mulheres passam, em média, mais tempo nas redes sociais — cerca de 8h por dia — 
+                enquanto os homens têm um uso mais moderado.
          """)
             
         with col3: 
@@ -162,9 +161,9 @@ class Tab1:
             st.plotly_chart(grafico_idade_horas.plot(), width="stretch")
             st.markdown("""
                 **Análise:**  
-                O gráfico exibe o **tempo médio de uso diário conforme a faixa etária** dos respondentes.
-                Observa-se que **usuários entre 18 e 20 anos** tendem a passar mais tempo nas redes sociais, 
-                enquanto o uso **diminui gradualmente com o aumento da idade**, sugerindo um comportamento mais equilibrado entre faixas mais velhas.
+                    Jovens entre 18 e 20 anos são os que mais usam redes sociais.
+                    Com o passar da idade, o tempo de uso tende a diminuir, mostrando hábitos mais equilibrados.
+                
                 """)
         
         st.divider()
@@ -175,8 +174,8 @@ class Tab1:
             st.plotly_chart(grafico_sono_uso.plot(), width="stretch")
             st.markdown("""
                 **Análise:**  
-                Este gráfico mostra a **relação entre o tempo de uso diário das redes sociais e a pontuação de saúde mental**, segmentada por plataforma.  
-                Observa-se uma **tendência negativa**: conforme as **horas de uso aumentam**, há uma **redução na pontuação de saúde mental**, indicando possíveis impactos psicológicos do uso excessivo.  
+                Quanto mais tempo nas redes sociais, menor tende a ser a pontuação de saúde mental.
+                O uso excessivo pode estar afetando o bem-estar psicológico.
  
                 """)
 
@@ -186,8 +185,8 @@ class Tab1:
             st.plotly_chart(grafico_desempenho_academico.plot(), width="stretch")
             st.markdown("""
                 **Análise:**  
-                Neste gráfico, analisamos a **relação entre a quantidade média de horas de sono por noite e o impacto no desempenho acadêmico**.  
-                É possível observar que os estudantes que **relataram desempenho acadêmico afetado** dormem, em média, **entre 5 e 6 horas por noite**, abaixo do **mínimo recomendado de 7 a 8 horas**.  
+                        Estudantes com desempenho afetado dormem menos — cerca de 5 a 6 horas por noite.
+                        A falta de sono parece refletir diretamente no desempenho.
             """)
 
 
@@ -200,8 +199,9 @@ class Tab1:
             st.plotly_chart(plataforma_pais.plot(), width="stretch")
             st.markdown("""
                 **Análise:**  
-                Este mapa, analisamos a  
-                """)
+                Países mais conectados, como EUA e Brasil, mostram níveis mais altos de vício.
+                Isso reflete como a tecnologia influencia nossos hábitos e o tempo gasto.
+            """)
 
 
         st.divider()

@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 
-from Tabela.tab1 import Tab1
-from Tabela.tab2 import Tab2  
-from Tabela.tab3 import Tab3  
-
+from tabela.tab1 import Tab1
+from tabela.tab2 import Tab2  
+from tabela.tab3 import Tab3  
+from tabela.tab4 import Tab4
 # Configuração da página
 st.set_page_config(
     page_title="Vicios em Mídias - Dashboard", 
@@ -17,9 +17,7 @@ st.markdown("""
     <div style="background-color:#f0f2f6; padding:16px; border-radius:8px;">
         <h1 style="text-align:center; color:#FF8000; margin:0;">Vício em Mídias Sociais e seus efeitos na vida</h1>
         <h3 style="text-align:center; color:gray; margin:0;">Pessoal e Acadêmica</h3>
-    </div>
 """, unsafe_allow_html=True)
-
 
 @st.cache_data
 def load_data(path):
@@ -36,9 +34,8 @@ st.sidebar.info("Selecione a análise que deseja visualizar:")
 
 aba = st.sidebar.selectbox(
     "---------------------------------------------",
-    ["Mídias Sociais", "Ansiedade", "Saúde Mental"]
+    ["Mídias Sociais", "Ansiedade", "Saúde Mental", "Conclusão"]
 )
-
 
 if aba == "Mídias Sociais":
     Tab1(df).render()
@@ -49,6 +46,9 @@ elif aba == "Ansiedade":
 elif aba == "Saúde Mental":
     Tab3(df3).render()
 
+elif aba == "Conclusão":
+    Tab4().render()
+    
 st.markdown(
     """
     <hr style="margin-top:40px; margin-bottom:20px;">

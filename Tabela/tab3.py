@@ -195,6 +195,12 @@ class Tab3:
             mapa_dep = MapaDepressao(df_filtrado)
             fig_mapa = mapa_dep.plot()
             st.plotly_chart(fig_mapa, width="stretch")
+            st.markdown("""
+                **Análise:**  
+                Alguns estados se destacam com **maiores índices de depressão**, como **Acre (33,3%)**, **Amazonas (31,6%)**,
+                **Ceará (29,5%)** e **Rondônia (29,4%)**. Esses resultados podem estar relacionados a **fatores sociais,
+                econômicos** e ao **acesso limitado a serviços de saúde mental**.
+                """)
 
         st.divider()
         
@@ -204,6 +210,8 @@ class Tab3:
             tentativas = Tentativas(df_filtrado)
             fig_tentativas = tentativas.plot()
             st.plotly_chart(fig_tentativas, width="stretch")
+            st.markdown("""
+            """)
         with col8:
             relacao_uso_saude = UsoAlcool(df_filtrado)
             fig_relacao = relacao_uso_saude.plot()
@@ -216,10 +224,24 @@ class Tab3:
             dispersao = DispersaoDesempregoApoio(df_filtrado)
             fig_dispersao = dispersao.plot()
             st.plotly_chart(fig_dispersao, width="stretch")
+            st.markdown("""
+                **Análise:**  
+                A maioria das tentativas ocorreu em **áreas urbanas (84,2%)**, enquanto apenas **15,8%** foram registradas em zonas
+                rurais, indicando maior incidência nas regiões mais populosas.
+            """)
+
         with col09: 
             saude_mental = SaudeMentalRenda(df_filtrado)
             fig_saudemental = saude_mental.plot()
             st.plotly_chart(fig_saudemental, width="stretch")
+            st.markdown("""
+                **Análise:**  
+                Pessoas com **menor renda familiar (0–2 salários mínimos)** apresentam **maiores índices de ansiedade,
+                depressão e isolamento social**.  
+                À medida que a renda aumenta, esses indicadores **tendem a diminuir**, sugerindo que fatores econômicos impactam 
+                diretamente a saúde mental.
+""")
+
 
         st.divider()
 
@@ -228,6 +250,13 @@ class Tab3:
             apoio_tentativas = ApoioTentativas(df_filtrado)
             fig_apoio = apoio_tentativas.plot()
             st.plotly_chart(fig_apoio,width="stretch")
+            st.markdown("""
+                **Análise:**  
+                O **apoio familiar médio** é de **6,1 entre pessoas sem tentativas** e apenas **2,3 entre quem já tentou**,
+                mostrando que **o suporte emocional familiar é 3,8 vezes maior** em quem não apresenta histórico de tentativa 
+                de suicídio.
+            """)
+
 
         st.divider()
         st.write("**Dados Filtrados**")

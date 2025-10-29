@@ -179,12 +179,24 @@ class Tab2:
             nivel_es = NivelEstress(df_filtrado)
             nivel_estress = nivel_es.plot()
             st.plotly_chart(nivel_estress, width="stretch" )
-           
+            st.markdown("""
+                **Análise:**  
+                    Quanto maior o estresse, maior a ansiedade. As sessões de terapia ajudam a equilibrar esse quadro,
+                    mostrando seu papel importante no bem-estar emocional.
+            """)
+
             
         with col3:
             terapia = Terapia(df_filtrado)
             fig_terapia = terapia.plot()
             st.plotly_chart(fig_terapia, width="stretch")
+            st.markdown("""
+               **Análise:**                      
+                Percebe-se que **quanto mais sessões de terapia**, **menor é o nível de ansiedade**.  
+                Isso mostra como o acompanhamento psicológico regular contribui para o bem-estar emocional e o 
+                controle do estresse.
+                """)
+
 
         st.divider()
         col5, col6 = st.columns(2)
@@ -194,11 +206,12 @@ class Tab2:
             st.plotly_chart(fig, width='streatch')
             st.markdown(
             """
+            **Análise:**
             **Diferença significativa (p = 0.0000)**  
 
             Pessoas que **usam medicamentos** apresentam, em média, níveis de ansiedade mais
-            altos 
-            do que as que não usam.
+            altos do que as que não usam.
+
             """)
  
         with col6:
@@ -207,7 +220,9 @@ class Tab2:
             st.plotly_chart(fig_fumo, width='stretch')
             st.markdown(
             """
-            Pessoas que Fumam tem mais Ansiedade do que as pessoas que **Não** Fumam
+            **Análise:**
+            Pessoas que **fumam** apresentam níveis de **ansiedade mais altos** em comparação
+            com quem **não fuma**, indicando uma possível ligação entre o tabagismo e o aumento da ansiedade.
             """)
         
              
@@ -217,7 +232,11 @@ class Tab2:
             sono = HoraSono(df_filtrado)
             fig_horasono = sono.plot()
             st.plotly_chart(fig_horasono, width="stretch")
-
+            st.markdown("""
+                        **Análise:**
+                Quem dorme menos tende a ter mais ansiedade. O gráfico reforça como o sono é essencial
+                para manter a mente equilibrada.
+            """)
         st.divider()
         # --- Tabela de dados filtrados ---
         st.markdown("Dados Filtrados")
