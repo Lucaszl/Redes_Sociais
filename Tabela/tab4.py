@@ -2,7 +2,6 @@ import streamlit as st
 
 class Tab4:
     def __init__(self):
-        
         self.reference = {
             "title": "Tempo de Tela e o Cérebro - Harvard",
             "summary": [
@@ -26,12 +25,12 @@ class Tab4:
 
     def render(self):
         st.markdown("<h2 style='text-align:center; color:#FF8000;'>Conclusão</h2>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align:center; color:gray;'>Resumo do estudo sobre tempo de tela e efeitos no cérebro</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align:center; color:#f0f2f6;'>Resumo do estudo sobre tempo de tela e efeitos no cérebro</p>", unsafe_allow_html=True)
 
         
         summary_html = "".join([f"<p style='color:#333; font-size:16px;'>{para}</p>" for para in self.reference['summary']])
         st.markdown(f"""
-        <div style="padding:15px; margin-bottom:15px; border-radius:8px; background-color:#f0f2f6;">
+        <div style="padding:15px; margin-bottom:15px; border-radius:8px; background-color:#f8f8ff;">
             <h3 style="color:#FF8000;">{self.reference['title']}</h3>
             {summary_html}
             <p style="text-align:right; font-size:14px; color:gray;">
@@ -43,7 +42,7 @@ class Tab4:
        
         dicas_html = "".join([f"<p style='color:#333; font-size:16px;'>{dica}</p>" for dica in self.resumo])
         st.markdown(f"""
-        <div style="padding:15px; margin-bottom:15px; border-radius:8px; background-color:#e8f0fe;">
+        <div style="padding:15px; margin-bottom:15px; border-radius:8px; background-color:#f8f8ff;">
             <h3 style="color:#FF8000;">Dicas de mídia digital</h3>
             {dicas_html}
         </div>

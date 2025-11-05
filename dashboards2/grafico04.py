@@ -13,7 +13,7 @@ class HoraSono:
                     x='Nivel_de_ansiedade_(1-10)',
                     y='Horas_de_Sono',
                     color='Nivel_de_ansiedade_(1-10)',
-                    title='<b>Impacto das Horas de Sono no Estresse</b>',
+                    title='<b>Impacto das Horas de Sono vs Nivel Ansiedade</b>',
                     # color_discrete_sequence=['#7A3E00', '#FF8C00', '#FFD580'],
                     color_discrete_sequence=color_sequence,
                     labels={

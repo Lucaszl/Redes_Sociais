@@ -11,7 +11,7 @@ class Terapia:
             self.df2,
             x='Sessoes_de_terapia_(por_mes)',
             y='Nivel_de_ansiedade_(1-10)',
-            trendline='lowess',
+            # trendline='lowess',
             color_discrete_sequence=['#FF6B35'],
             title="<b>Sessões de Terapia vs Nível de Ansiedade</b>",
             labels={

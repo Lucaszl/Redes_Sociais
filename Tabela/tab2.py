@@ -207,8 +207,6 @@ class Tab2:
             st.markdown(
             """
             **Análise:**
-            **Diferença significativa (p = 0.0000)**  
-
             Pessoas que **usam medicamentos** apresentam, em média, níveis de ansiedade mais
             altos do que as que não usam.
 

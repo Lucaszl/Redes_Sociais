@@ -38,7 +38,7 @@ class GraficoPlataforma:
             x='Plataforma',
             y='Contagem',
             text='Contagem',
-            labels={'Contagem': 'Quantidade'},
+            labels={'Contagem': 'Total de Usuários'},
             title='Plataformas mais utilizadas',
             color_discrete_sequence=['#fa6900'],
             hover_data=hover_data
