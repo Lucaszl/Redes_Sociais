@@ -5,7 +5,8 @@ from tabela.tab1 import Tab1
 from tabela.tab2 import Tab2  
 from tabela.tab3 import Tab3  
 from tabela.tab4 import Tab4
-# Configuração da página
+
+
 st.set_page_config(
     page_title="Vicios em Mídias - Dashboard", 
     layout="wide",

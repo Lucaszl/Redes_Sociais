@@ -95,7 +95,7 @@ class Tab3:
             alcool = st.checkbox('Uso de Álcool', value=True, key="tab3_alcool")
             tabaco = st.checkbox('Uso de Tabaco', value=True, key="tab3_tabaco")
         
-        # Redefinir filtros
+        
         if st.sidebar.button("Redefinir Filtros", key="tab3_redefinir"):
             for key in list(st.session_state.keys()):
                 if key.startswith("tab3_"):

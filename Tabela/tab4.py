@@ -12,7 +12,7 @@ class Tab4:
             "link": "https://hms.harvard.edu/news-events/publications-archive/brain/screen-time-brain"
         }
 
-        # Resumo de dicas
+       
         self.resumo = [
             "Dicas de mídia digital do pediatra e ex-cineasta Dr. Michael Rich, também conhecido como 'O Mediador':",
             "Cuidado com a distração da mídia digital. Metade de todas as crianças e três quartos dos pais sentem que o outro está distraído ao falar.",

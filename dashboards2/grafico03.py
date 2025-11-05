@@ -5,7 +5,7 @@ class Terapia:
         self.df2 = df2
 
     def plot(self):
-        # df2 = df2.copy()
+        
 
         fig_terapia = px.scatter(
             self.df2,

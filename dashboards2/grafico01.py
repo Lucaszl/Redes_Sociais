@@ -9,14 +9,14 @@ class PanoramaAnsiedade:
     def plot(self):
         colors = ['#FF6B35', '#FF8E53', '#FFA978']
         
-        # Calcular distribuição
+        
         contagem_ansiedade = self.df2['Nivel_de_ansiedade_(1-10)'].value_counts().sort_index()
         total_pessoas = len(self.df2)
         media = self.df2['Nivel_de_ansiedade_(1-10)'].mean()
         
         fig = go.Figure()
         
-        # Barras horizontais
+       
         fig.add_trace(go.Bar(
             y=[f"Nível {nivel}" for nivel in contagem_ansiedade.index],
             x=contagem_ansiedade.values,

@@ -15,7 +15,7 @@ class Tab2:
         st.sidebar.markdown("---")
         st.sidebar.markdown("Filtros - Análise de Ansiedade")
         
-        # Filtro de Idade
+       
         idade_min = int(self.df2['Idade'].min())
         idade_max = int(self.df2['Idade'].max())
         faixa_idade = st.sidebar.slider(
@@ -26,7 +26,7 @@ class Tab2:
             key="tab2_idade"
         )
         
-        # Filtro de Gênero
+      
         genero = st.sidebar.multiselect(
             "Gênero", 
             self.df2['Genero'].unique(),
@@ -34,7 +34,7 @@ class Tab2:
             key="tab2_genero"
         )
         
-        # Filtro de Profissão
+      
         profissao = st.sidebar.multiselect(
             "Profissão/Cargo",
             self.df2['Profissao_Cargo'].unique(),
@@ -42,7 +42,7 @@ class Tab2:
             key="tab2_profissao"
         )
         
-        # Filtro de Horas de Sono
+        
         sono_min = float(self.df2['Horas_de_Sono'].min())
         sono_max = float(self.df2['Horas_de_Sono'].max())
         horas_sono = st.sidebar.slider(
@@ -53,7 +53,7 @@ class Tab2:
             key="tab2_sono"
         )
         
-        # Filtro de Atividade Física
+       
         atividade_min = float(self.df2['Atividade_Fisica_(hrs/semana)'].min())
         atividade_max = float(self.df2['Atividade_Fisica_(hrs/semana)'].max())
         atividade_fisica = st.sidebar.slider(
@@ -64,7 +64,7 @@ class Tab2:
             key="tab2_atividade"
         )
         
-        # Filtro de Cafeína
+        
         cafeina_min = float(self.df2['Ingestao_de_Cafeina_(Por_Dia/Mg)'].min())
         cafeina_max = float(self.df2['Ingestao_de_Cafeina_(Por_Dia/Mg)'].max())
         ingestao_cafeina = st.sidebar.slider(
@@ -75,7 +75,7 @@ class Tab2:
             key="tab2_cafeina"
         )
         
-        # Filtros de checkboxes para condições
+        
         col1, col2 = st.sidebar.columns(2)
         with col1:
             historico_familiar = st.checkbox('Histórico Familiar', value=True, key="tab2_historico")
@@ -84,7 +84,7 @@ class Tab2:
             terapia = st.checkbox('Faz Terapia', value=True, key="tab2_terapia")
             evento_recente = st.checkbox('Evento Recente', value=True, key="tab2_evento")
         
-        # Botão de redefinir (você pode ajustar depois)
+        
         if st.sidebar.button("Redefinir Filtros", key="tab2_redefinir"):
             for key in list(st.session_state.keys()):
                 if key.startswith("tab2_"):
@@ -102,14 +102,14 @@ class Tab2:
         
         df_filtrado = self.df2.copy()
         
-        # Aplicar filtros um por um
+        
         if genero:
             df_filtrado = df_filtrado[df_filtrado['Genero'].isin(genero)]
         
         if profissao:
             df_filtrado = df_filtrado[df_filtrado['Profissao_Cargo'].isin(profissao)]
         
-        # Filtros de range
+        
         df_filtrado = df_filtrado[
             (df_filtrado['Idade'].between(faixa_idade[0], faixa_idade[1])) &
             (df_filtrado['Horas_de_Sono'].between(horas_sono[0], horas_sono[1])) &
@@ -117,7 +117,7 @@ class Tab2:
             (df_filtrado['Ingestao_de_Cafeina_(Por_Dia/Mg)'].between(ingestao_cafeina[0], ingestao_cafeina[1]))
         ]
         
-        # Filtros de checkbox
+        
         if not historico_familiar:
             df_filtrado = df_filtrado[df_filtrado['Historico_de_Ansiedade_Familiar'] == 'Nao']
         
@@ -162,7 +162,7 @@ class Tab2:
 
         st.divider()
 
-        # --- Gráficos principais ---
+        
         col1  = st.columns(1)
 
         with col1[0]:
@@ -172,7 +172,7 @@ class Tab2:
 
         st.divider()
        
-        # col1, col2 = st.columns(2)
+       
 
         col2, col3 = st.columns(2)
         with col2:
@@ -236,11 +236,11 @@ class Tab2:
                 para manter a mente equilibrada.
             """)
         st.divider()
-        # --- Tabela de dados filtrados ---
+        
         st.markdown("Dados Filtrados")
         st.dataframe(df_filtrado.head(100), width="stretch")
 
-        # Download dos dados filtrados
+        
         csv = df_filtrado.to_csv(index=False)
         st.download_button(
             label="Download dados filtrados (CSV)",
@@ -250,11 +250,11 @@ class Tab2:
         )
     
     def render(self):
-        # Renderizar filtros
+      
         filtros = self._render_filters()
         
-        # Aplicar filtros
+      
         df_filtrado = self._aplicar_filtros(filtros)
         
-        # Renderizar gráficos
+       
         self._render_graficos(df_filtrado)

@@ -56,8 +56,7 @@ class Tab1:
             key="tab1_pais"
         )
        
-        # # Redefinir filtros 
-        # st.sidebar.button("Redefinir Filtros", on_click=st.session_state.clear)
+       
         if st.sidebar.button("Redefinir Filtros"):
             for key in list(st.session_state.keys()):
                 if key.startswith("tab1_"):

@@ -5,7 +5,7 @@ class NivelEstress:
     def __init__(self, df2):
         self.df2 = df2 
     def plot(self):
-        # df2 = df2.copy()
+        
         nivel_estress = px.scatter(self.df2,
                         x='Nivel_de_Estresse_(1-10)',
                         y='Nivel_de_ansiedade_(1-10)',
