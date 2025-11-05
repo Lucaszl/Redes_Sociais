@@ -1,5 +1,5 @@
 import plotly.express as px
-import pandas as pd
+
 
 class RelacaoUsoSaudeMental:
     def __init__(self, df):

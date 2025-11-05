@@ -1,6 +1,5 @@
 import plotly.express as px
 import json
-import pandas as pd
 
 class MapaDepressao:
     def __init__(self, df3):
