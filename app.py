@@ -23,6 +23,7 @@ st.markdown("""
 @st.cache_data
 def load_data(path):
     df = pd.read_csv(path, encoding="latin-1")
+    df = df.drop(columns=[col for col in df.columns if "Unnamed" in col])
     df.columns = df.columns.str.strip().str.replace(" ", "_")
     return df
 
